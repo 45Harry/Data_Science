@@ -1,0 +1,1284 @@
+INCOME/EXPENSE,DEPARTMENT,TYPE,VENDOR/COSTUMER,PARTICULAR,QTY,UOM,CREDIT,CASH,REMARKS,TYPER,CREDITOR/DEBTOR
+Income,Room,202,Sujan Tulachan,Room,1,Day,0.0,2000.0,BILL NO 250,s,Cash
+Income,Room,204,Sujan Tulachan,Room,1,Day,0.0,2000.0,BILL NO 250,s,Cash
+Income,Resturant,Bar,Sujan Tulachan,Mineral Water,3,Bottle,0.0,90.0,BILL NO 250,s,Cash
+Income,Resturant,Food,Sujan Tulachan,Normal Breakfast,2,Set,0.0,600.0,BILL NO 250,s,Cash
+Income,Resturant,Food,Sujan Tulachan,Veg Soup,1,Boul,0.0,150.0,BILL NO 250,s,Cash
+Income,Resturant,Food,Sujan Tulachan,Chicken Khana,1,Plate,0.0,400.0,BILL NO 250,s,Cash
+Income,Resturant,Food,Sujan Tulachan,Veg Roti Set,1,Set,0.0,300.0,BILL NO 250,s,Cash
+Income,Resturant,Food,Sujan Tulachan,Mix Chowmein,1,Plate,0.0,275.0,BILL NO 250,s,Cash
+Income,Adminstration,Discount,Sujan Tulachan,Discount,0,Harry,0.0,-15.0,BILL NO 250,s,Cash
+Income,Resturant,Food,Gaurav Maskey,Chicken Kima Paratha,2,Piece,200.0,0.0,BILL NO 248,s,Debtor
+Income,Resturant,Food,Gaurav Maskey,Chicken Chilly B/L,1,Plate,350.0,0.0,BILL NO 248,s,Debtor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,3,Packet,180.0,0.0,BILL NO 718,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Bread,3,Packet,195.0,0.0,BILL NO 718,s,Creditor
+Expense,Kitchen,Food,Local Market,Orange,1,Kg,0.0,120.0,Harry,s,Cash
+Expense,Kitchen,Food,Local Market,Banana,1,Darjan,0.0,130.0,Harry,s,Cash
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cucumber,2,Kg,180.0,0.0,BILL NO 1669,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Lemon,500,Gm,150.0,0.0,BILL NO 1669,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Corrainder,500,Gm,140.0,0.0,BILL NO 1669,s,Creditor
+Expense,Adminstration,Salary,Kumar Shurketi,Adv Salary,0,Harry,0.0,2000.0,Poush,s,Cash
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Detergent Powder,1,Packet,0.0,440.0,BILL NO 166,s,Cash
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Detergent Powder,1,Packet,0.0,60.0,BILL NO 166,s,Cash
+Income,Resturant,Food,Outguest,Veg Khana,1,Plate,0.0,300.0,BILL NO 302,s,Cash
+Income,Resturant,Food,Naresh Electronic Center,Chicken Momo,3,Plate,0.0,675.0,BILL NO 247,s,Cash
+Income,Resturant,Food,Naresh Electronic Center,Chicken Kima Paratha,3,Piece,0.0,300.0,BILL NO 247,s,Cash
+Income,Resturant,Food,Naresh Electronic Center,Chicken Chilly B/L,1,Plate,0.0,350.0,BILL NO 247,s,Cash
+Income,Adminstration,Discount,Naresh Electronic Center,Discount,0,Harry,0.0,-25.0,BILL NO 247,s,Cash
+Income,Room,107,Office (Shreejan Mushyaju),Room,3,Day,3000.0,0.0,BILL NO 303,s,Debtor
+Income,Resturant,Food,Office (Shreejan Mushyaju),Chicken Khana,4,Plate,1600.0,0.0,BILL NO 303,s,Debtor
+Income,Resturant,Food,Office (Shreejan Mushyaju),Chicken Momo,1,Plate,225.0,0.0,BILL NO 303,s,Debtor
+Income,Resturant,Food,Bibash Shrestha,Chicken Crispy Momo,1,Plate,300.0,0.0,BILL No 304,s,Debtor
+Expense,Kitchen,Vegetables,Local Market,Ginger,2,Kg,0.0,240.0,Harry,s,Cash
+Expense,Kitchen,Vegetables,Local Market,Ginger,500,Gm,0.0,60.0,Harry,s,Cash
+Expense,Kitchen,Meat,Bhabana Stores,Chicken ,10,Kg,3700.0,0.0,BILL NO 1071,s,Creditor
+Expense,Adminstration,Stationary,Pushpanjali Pustak Tatha Puja Statineory Center,Tipex,1,Piece,0.0,50.0,Harry,r,Cash
+Income,Room,106,Dinesh B.K,Room,1,Day,0.0,1000.0,BILL NO 305,r,Cash
+Income,Resturant,Food,Dinesh B.K,Chicken Curry,1,Plate,0.0,300.0,BILL NO 305,r,Cash
+Income,Resturant,Food,Dinesh B.K,Plain Chapati,4,Piece,0.0,100.0,BILL NO 305,r,Cash
+Expense,Adminstration,Salary,Gaurav Maskey,Adv Salary,0,Harry,0.0,1000.0,Poush,r,Cash
+Expense,Adminstration,Water,Gorkha Mineral Water Udhyog,Water Jar,5,Jar,300.0,0.0,BILL NO 3303,r,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,5,Packet,300.0,0.0,BILL NO 713,r,Creditor
+Income,Room,201,Reeta Shakya,Room,1,Day,0.0,2000.0,BILL NO 307,r,Cash
+Income,Room,206,Reeta Shakya,Room,1,Day,0.0,1200.0,BILL NO 307,r,Cash
+Income,Room,301,Reeta Shakya,Room,1,Day,0.0,2000.0,BILL NO 307,r,Cash
+Income,Resturant,Food,Reeta Shakya,Chicken Khana,2,Plate,0.0,800.0,BILL NO 307,r,Cash
+Income,Resturant,Food,Reeta Shakya,Veg Khana,3,Plate,0.0,900.0,BILL NO 307,r,Cash
+Income,Room,207,Abhimanyu Kumar,Room,1,Day,0.0,1000.0,BILL NO 308,r,Cash
+Income,Resturant,Food,Abhimanyu Kumar,Plain Chapati,8,Piece,0.0,200.0,BILL NO 308,r,Cash
+Income,Resturant,Food,Abhimanyu Kumar,Mix Veg Curry,1,Plate,0.0,175.0,BILL NO 308,r,Cash
+Income,Resturant,Food,Abhimanyu Kumar,Dal Fried,1,Plate,0.0,150.0,BILL NO 308,r,Cash
+Income,Resturant,Food,Abhimanyu Kumar,Chicken Fried,1,Plate,0.0,400.0,BILL NO 308,r,Cash
+Income,Resturant,Bar,Abhimanyu Kumar,Khukuri Rum,2,Qtr,0.0,1300.0,BILL NO 308,r,Cash
+Income,Resturant,Food,Abhimanyu Kumar,Aalu Sandeko,1,Plate,0.0,150.0,BILL NO 308,r,Cash
+Income,Resturant,Food,Abhimanyu Kumar,Panir Pakoda,1,Plate,0.0,225.0,BILL NO 308,r,Cash
+Income,Resturant,Food,Guddu Das,Milk Coffee,2,Cup,200.0,0.0,BILL NO 309,r,Debtor
+Income,Resturant,Food,Out Guest,Milk Coffee,1,Cup,0.0,100.0,BILL NO 310,r,Cash
+Income,Resturant,Food,Out Guest,Black Coffee,1,Cup,0.0,50.0,BILL NO 310,r,Cash
+Expense,Kitchen,Food,Gorkha Mini Mart,Chicken Sausage,3,Packet,0.0,1650.0,BILL NO 06753,r,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Bhuja,3,Packet,0.0,90.0,BILL NO 167,r,Cash
+Income,Room,205,Sujit Shrestha,Room,1,Day,1000.0,0.0,BILL NO 311,r,Debtor
+Income,Room,305,Sujit Shrestha,Room,1,Day,1000.0,0.0,BILL NO 311,r,Debtor
+Income,Resturant,Bar,Sujit Shrestha,Tuborg Beer,3,Bottle,1665.0,0.0,BILL NO 311,r,Debtor
+Income,Resturant,Food,Sujit Shrestha,Tea (Cig),5,Cup,150.0,0.0,BILL NO 311,r,Debtor
+Income,Resturant,Food,Sujit Shrestha,Fruits Salad,1,Plate,250.0,0.0,BILL NO 311,r,Debtor
+Income,Resturant,Food,Sujit Shrestha,Black Coffee,1,Cup,50.0,0.0,BILL NO 311,r,Debtor
+Income,Resturant,Bar,Gaurav Maskey,Mineral Water,2,Cup,60.0,0.0,BILL NO 314,r,Debtor
+Expense,Kitchen,Vegetables,Kumar Shurketi,Corrainder,1,Kg,0.0,100.0,Harry,r,Cash
+Income,Adminstration,Credit Collection,Deepa Shrestha (Gorkha Palace),Past Credit Collection,0,Harry,0.0,7000.0,Poush,r,Cash
+Expense,Kitchen,Food,Gorkha Mini Mart,Basa Fish,4,Packet,0.0,1900.0,BILL NO 06761,r,Cash
+Income,Resturant,Food,Ishwor Maskey Sir,Veg Jhol Momo,2,Plate,500.0,0.0,BILL NO 315,r,Debtor
+Expense,Resturant,Bar,Shree Muna Kirana Stores,Old Durbar,1,Bottle,0.0,2650.0,BILL NO 950,r,Cash
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Garlic,1,Kg,350.0,0.0,BILL NO 1670,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cauliflower,5,Kg,400.0,0.0,BILL NO 1670,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cabbage,2,Kg,120.0,0.0,BILL NO 1670,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Apple,2,Kg,500.0,0.0,BILL NO 1670,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,2,Kg,140.0,0.0,BILL NO 1670,r,Creditor
+Income,Resturant,Food,Jeevan Jyoti Shrestha,Chiken Momo,2,Plate,450.0,0.0,BILL NO 316,r,Debtor
+Expense,Kitchen,Vegetables,Sonu Nepali,Beans,2,Kg,0.0,200.0,Harry,r,Cash
+Income,Resturant,Bar,Sujit Shrestha,Old Durbar,1,Full,4000.0,0.0,BILL NO 229,r,Debtor
+Income,Resturant,Bar,Sujit Shrestha,Khukuri Rum,1,Qtr,650.0,0.0,BILL NO 229,r,Debtor
+Income,Resturant,Food,Sujit Shrestha,Mutton Sekuwa,1,Plate,375.0,0.0,BILL NO 229,r,Debtor
+Income,Resturant,Food,Sujit Shrestha,Chicken Chilly,1,Plate,300.0,0.0,BILL NO 229,r,Debtor
+Income,Resturant,Food,Sujit Shrestha,Cheese Stick,1,Plate,300.0,0.0,BILL NO 229,r,Debtor
+Income,Resturant,Food,Sujit Shrestha,Chicken Momo,2,Plate,450.0,0.0,BILL NO 229,r,Debtor
+Income,Resturant,Food,Sujit Shrestha,Fish Finger,3,Plate,1050.0,0.0,BILL NO 229,r,Debtor
+Income,Resturant,Food,Sujit Shrestha,Peanuts Sandeko,1,Plate,150.0,0.0,BILL NO 229,r,Debtor
+Income,Adminstration,Service Charge,Sujit Shrestha,Service Charge,0,Harry,727.5,0.0,BILL NO 229,r,Debtor
+Income,Resturant,Bar,Sujit Shrestha,Old Durbar,0,Harry,0.0,4000.0,BILL NO 319,r,Cash
+Income,Resturant,Food,Sujit Shrestha,Fish Finger,2,Plate,700.0,0.0,BILL NO 320,r,Debtor
+Income,Resturant,Food,Sujit Shrestha,Mutton Khaja,1,Plate,400.0,0.0,BILL NO 320,r,Debtor
+Income,Resturant,Food,Sujit Shrestha,Mutton Sekuwa,1,Plate,350.0,0.0,BILL NO 320,r,Debtor
+Income,Resturant,Food,Sujit Shrestha,Green Salad,1,Plate,175.0,0.0,BILL NO 320,r,Debtor
+Income,Resturant,Food,Sujit Shrestha,Russian Salad,1,Plate,250.0,0.0,BILL NO 320,r,Debtor
+Income,Resturant,Bar,Sujit Shrestha,Mineral Water,2,Bottle,60.0,0.0,BILL NO 320,r,Debtor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Timur ,5,Packet,750.0,0.0,BILL NO 19,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Turmeric Powder,1,Packet,200.0,0.0,BILL NO 19,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Maida,10,Kg,1000.0,0.0,BILL NO 19,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Bread crumb,1,Packet,400.0,0.0,BILL NO 19,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Sunflower Oil,1,Pack,2500.0,0.0,BILL NO 19,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Momo Masala,1,Bundle,525.0,0.0,BILL NO 19,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Sugar,2,Kg,190.0,0.0,BILL NO 19,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Ketchup,5,Kg,1050.0,0.0,BILL NO 19,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Chilly Sauce,5,Kg,900.0,0.0,BILL NO 19,r,Creditor
+Expense,Resturant,Bar,Joshi Quality Kirana pasal,Khukuri Rum,3,Bottle,5700.0,0.0,BILL NO 19,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Pop Up Napkin,1,Bundle,700.0,0.0,BILL NO 19,r,Creditor
+Expense,Kitchen,Meat,Upendra Khatri,Mutton,7,Kg,0.0,7000.0,Harry,r,Office Money
+Income,Room,201,Binod Man Rajbandari,Room,1,Day,0.0,2500.0,BILL NO 318,r,Cash
+Income,Resturant,Food,Binod Man Rajbandari,Chicken Momo,1,Plate,0.0,225.0,BILL NO 318,r,Cash
+Income,Resturant,Food,Binod Man Rajbandari,Panir Chese Momo,1,Plate,0.0,225.0,BILL NO 318,r,Cash
+Income,Resturant,Food,Binod Man Rajbandari,Chicken Fried,1,Plate,0.0,400.0,BILL NO 318,r,Cash
+Income,Resturant,Food,Binod Man Rajbandari,Plain Chapati,2,Plate,0.0,50.0,BILL NO 318,r,Cash
+Income,Resturant,Food,Binod Man Rajbandari,Aalu Bujya,1,Plate,0.0,100.0,BILL NO 318,r,Cash
+Income,Resturant,Food,Binod Man Rajbandari,Milk Tea,2,Cup,0.0,130.0,BILL NO 318,r,Cash
+Income,Resturant,Food,Binod Man Rajbandari,Miracle Platter Non Veg,1,Plate,0.0,1100.0,BILL NO 318,r,Cash
+Income,Resturant,Food,Binod Man Rajbandari,Normal Breakfast,1,Plate,0.0,300.0,BILL NO 318,r,Cash
+Income,Adminstration,Discount,Binod Man Rajbandari,Discount,0,Harry,0.0,-30.0,BILL NO 318,r,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,5,Packet,300.0,0.0,BILL NO 720,r,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Bread,5,Packet,250.0,0.0,BILL NO 720,r,Creditor
+Income,Resturant,Food,Outguest,Mutton Khana,2,Plate,0.0,900.0,BILL NO 321,s,Cash
+Income,Resturant,Bar,Outguest,Mineral Water,1,Bottle,0.0,30.0,BILL NO 321,s,Cash
+Income,Resturant,Food,Outguest,Milk Coffee,2,Cup,0.0,200.0,BILL NO 321,s,Cash
+Income,Resturant,Food,Outguest,Hot Lemon,1,Glass,0.0,50.0,BILL NO 321,s,Cash
+Income,Resturant,Food,Outguest,Black Coffee,1,Cup,0.0,50.0,BILL NO 321,s,Cash
+Expense,Adminstration,Salary,Gaurav Maskey,Adv Salary,0,Harry,0.0,1000.0,Poush,s,Cash
+Expense,Kitchen,Vegetables,Bhim Uperkoti,Ginger,4,Kg,0.0,480.0,Harry,s,Cash
+Expense,Adminstration,Repair and Maintainance,Babul Kumar (Fasle Celling Mistry),Adv Payment,0,Harry,0.0,1000.0,Harry,s,Cash
+Income,Room,304,Dhurba Regmi,Room,1,Day,0.0,1800.0,BILL NO 325,s,Cash
+Income,Room,207,Lok Bhadur Gurung,Room,1,Day,0.0,1000.0,BILL NO 324,s,Cash
+Income,Resturant,Food,Lok Bhadur Gurung,Chicken Khana,1,Plate,0.0,400.0,BILL NO 324,s,Cash
+Income,Room,106,Uttam B.K,Room,1,Day,0.0,1000.0,BILL NO 323,s,Cash
+Income,Resturant,Food,Uttam B.K,Chicken Khana,1,Plate,0.0,400.0,BILL NO 323,s,Cash
+Income,Resturant,Food,Uttam B.K,Plain Rice,1,Plate,0.0,100.0,BILL NO 323,s,Cash
+Income,Resturant,Food,Uttam B.K,Plain Dal,1,Boul,0.0,120.0,BILL NO 323,s,Cash
+Income,Adminstration,Discount,Uttam B.K,Discount,0,Harry,0.0,-20.0,BILL No 323,s,Cash
+Income,Room,306,Amalya Office (Prem Gurung),Room,1,Day,1200.0,0.0,BILL NO 322,s,Debtor
+Income,Resturant,Food,Amalya Office (Prem Gurung),Mutton Khana,2,Plate,900.0,0.0,BILL NO 322,s,Debtor
+Income,Resturant,Food,Outguest,Veg Khana,1,Plate,0.0,300.0,BILL NO 326,s,Cash
+Income,Resturant,Food,Outguest,Chicken Khana,1,Plate,0.0,400.0,BILL NO 328,s,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,5,Packet,300.0,0.0,BILL NO 721,s,Creditor
+Income,Room,204,Suraj Priyar,Room,1,Day,0.0,2000.0,BILL NO 329,s,Cash
+Income,Resturant,Food,Suraj Priyar,Veg Khana,2,Plate,0.0,600.0,BILL NO 329,s,Cash
+Income,Resturant,Food,Suraj Priyar,Chicken Khana,2,Plate,0.0,800.0,BILL NO 329,s,Cash
+Income,Adminstration,Service Charge,Suraj Priyar,Service Charge,0,Harry,0.0,140.0,BILL NO 329,s,Cash
+Income,Adminstration,Discount,Suraj Priyar,Discount,0,Harry,0.0,-40.0,BILL NO 329,s,Cash
+Income,Room,205,Sachin Sharma,Room,1,Day,0.0,1300.0,BILL NO 331,s,Fonepay
+Income,Room,206,Sachin Sharma,Room,1,Day,0.0,1300.0,BILL NO 331,s,Fonepay
+Income,Resturant,Food,Sachin Sharma,Fish Khana,1,Plate,0.0,375.0,BILL NO 331,s,Fonepay
+Income,Resturant,Food,Sachin Sharma,Veg Roti Set,2,Set,0.0,600.0,BILL NO 331,s,Fonepay
+Income,Resturant,Bar,Sachin Sharma,Cold Drinks,1,Bottle,0.0,100.0,BILL NO 331,s,Fonepay
+Income,Resturant,Food,Sachin Sharma,Milk Tea,4,Cup,0.0,260.0,BILL NO 331,s,Fonepay
+Income,Resturant,Food,Sachin Sharma,Chicken Momo Fried,1,Plate,0.0,250.0,BILL NO 331,s,Fonepay
+Income,Resturant,Food,Sachin Sharma,Milk Coffee,1,Cup,0.0,100.0,BILL NO 331,s,Fonepay
+Income,Resturant,Food,Sachin Sharma,Miracle Non Veg Khaja set,1,Set,0.0,400.0,BILL NO 331,s,Fonepay
+Expense,Adminstration,Credit Payment,Gorkha Mineral Water Udhyog,Past Credit Payment,0,Harry,0.0,4140.0,Harry,s,Cash
+Expense,Adminstration,Repair and Maintainance,Aryal Bejuli Pasal,D.P MCV,1,Piece,0.0,900.0,BILL NO 1854,s,Cash
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Detergent Powder,2,Packet,0.0,880.0,BILL NO 166,s,Cash
+Expense,Kitchen,Meat,Bhabana Stores,Chicken,10,Kg,3700.0,0.0,BILL NO 1075,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Butter,1,Kg,1340.0,0.0,BILL NO 722,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Paneer,1,Kg,840.0,0.0,BILL NO 722,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,5,Packet,300.0,0.0,BILL NO 722,s,Creditor
+Income,Room,201,Shiva Kumar Khadka,Room,1,Day,0.0,2000.0,BILL NO 332,s,Cash
+Income,Room,301,Shiva Kumar Khadka,Room,1,Day,0.0,2000.0,BILL NO 332,s,Cash
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Bitten Rice,5,Kg,400.0,0.0,BILL NO 20,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Curry Powder,1,Bundle,400.0,0.0,BILL NO 20,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Musur Dal,3,Kg,450.0,0.0,BILL NO 20,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Rohar Dal,3,Kg,600.0,0.0,BILL NO 20,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Honey,1,Kg,750.0,0.0,BILL NO 20,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Pop Corn,4,Kg,960.0,0.0,BILL NO 20,r,Creditor
+Expense,Kitchen,Food,Local Market,Sweet Corn,3,Packet,0.0,960.0,BILL NO 52,r,Cash
+Expense,Adminstration,Rent,Sher Bdr Rana (Hotel Inside),Payment for Guest Being Stay,0,Harry,0.0,5000.0,Harry,r,Cash
+Expense,Resturant,Bar,Kausal Kirana Pasal,Coke 1.5 L,2,Bottle,0.0,340.0,BILL NO 317,r,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Chowmein,5,Packet,0.0,450.0,BILL NO 169,r,Cash
+Expense,Resturant,Bar,Shrestha Kirana Pasal,Realm juice,3,Bottle,0.0,810.0,BILL NO 169,r,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Peanut,2,Packet,0.0,320.0,BILL NO 170,r,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Can Mushroom,3,Can,0.0,450.0,BILL NO 170,r,Cash
+Expense,Adminstration,Water,Gorkha Mineral Water Udhyog,Water Jar,6,Jar,360.0,0.0,BILL NO 3311,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Capsicum,2,Kg,260.0,0.0,BILL NO 1673,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cabbage,2,Kg,120.0,0.0,BILL NO 1673,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,2,Kg,120.0,0.0,BILL NO 1673,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Potato,20,Kg,1200.0,0.0,BILL NO 1673,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Lemon,500,Gm,150.0,0.0,BILL NO 1673,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cucumber,2,Kg,180.0,0.0,BILL NO 1673,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,carrot,2,Kg,180.0,0.0,BILL NO 1673,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tamato,2,Kg,120.0,0.0,BILL NO 1671,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Garlic,2,Kg,700.0,0.0,BILL NO 1671,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Green Chilly,500,Gm,60.0,0.0,BILL NO 1671,s,Creditor
+Income,Resturant,Food,Guddu Veg Shop,Milk Coffee,3,Cup,300.0,0.0,BILL NO 339,s,Debtor
+Income,Room,204,Rabindra Shrestha,Room,1,Day,0.0,2000.0,BILL NO 337,s,Cash
+Income,Resturant,Food,Rabindra Shrestha,Mutton Khana,2,Plate,0.0,900.0,BILL NO 337,s,Cash
+Income,Resturant,Food,Rabindra Shrestha,Veg Khana,2,Plate,0.0,600.0,BILL NO 337,s,Cash
+Income,Room,206,Rakesh Kumar Gupta,Room,1,Day,0.0,1000.0,BILL NO 338,s,Fonepay
+Income,Resturant,Bar,Rakesh Kumar Gupta,Khukuri Rum,1,Qtr,0.0,650.0,BILL NO 338,s,Fonepay
+Income,Resturant,Bar,Rakesh Kumar Gupta,Real Juice,1,Glass,0.0,100.0,BILL NO 338,s,Fonepay
+Income,Resturant,Food,Rakesh Kumar Gupta,Chicken Fried,1,Plate,0.0,400.0,BILL NO 338,s,Fonepay
+Income,Resturant,Food,Rakesh Kumar Gupta,Chicken Wings,1,Plate,0.0,350.0,BILL NO 338,s,Fonepay
+Income,Resturant,Food,Rakesh Kumar Gupta,Noodles Sadheko,1,Plate,0.0,125.0,BILL NO 338,s,Fonepay
+Income,Resturant,Food,Rakesh Kumar Gupta,Chicken Sausage Fry,1,Plate,0.0,200.0,BILL NO 338,s,Fonepay
+Income,Resturant,Food,Rakesh Kumar Gupta,Veg Khana,2,Plate,0.0,600.0,BILL NO 338,s,Fonepay
+Income,Resturant,Food,Rakesh Kumar Gupta,Milk Tea,3,Cup,0.0,195.0,BILL NO 338,s,Fonepay
+Income,Resturant,Bar,Rakesh Kumar Gupta,Mineral Water,1,Bottle,0.0,30.0,BILL NO 338,s,Fonepay
+Income,Adminstration,VAT,Rakesh Kumar Gupta,VAT,0,Harry,0.0,138.0,BILL NO 338,s,Fonepay
+Income,Adminstration,Discount,Rakesh Kumar Gupta,Discount,0,Harry,0.0,-38.0,BILL NO 338,s,Fonepay
+Income,Resturant,Food,Outguest,Chips Chilly,4,Plate,0.0,680.0,BILL NO 335,s,Fonepay
+Income,Resturant,Food,Outguest,Paneer Pakauda,4,Plate,0.0,900.0,BILL NO 335,s,Fonepay
+Income,Resturant,Food,Outguest,Corn & Peper,4,Plate,0.0,900.0,BILL NO 335,s,Fonepay
+Income,Resturant,Food,Outguest,Chicken Chilly,12,Plate,0.0,4200.0,BILL NO 335,s,Fonepay
+Income,Resturant,Food,Outguest,Chicken Momo,8,Plate,0.0,1800.0,BILL NO 335,s,Fonepay
+Income,Resturant,Food,Outguest,Veg Momo,2,Plate,0.0,300.0,BILL NO 335,s,Fonepay
+Income,Resturant,Food,Outguest,Veg Tempura,5,Plate,0.0,825.0,BILL NO 335,s,Fonepay
+Income,Resturant,Food,Outguest,Sausage Fried,10,Plate,0.0,2000.0,BILL NO 335,s,Fonepay
+Income,Resturant,Food,Outguest,Peanuts Sandeko,6,Plate,0.0,900.0,BILL NO 335,s,Fonepay
+Income,Resturant,Food,Outguest,Mushroom Chilly,2,Plate,0.0,600.0,BILL NO 335,s,Fonepay
+Income,Resturant,Bar,Outguest,Cold Drinks,2,Full,0.0,600.0,BILL NO 335,s,Fonepay
+Income,Adminstration,Service Charge,Outguest,Cockarage Charge,0,Harry,0.0,2000.0,BILL NO 335,s,Fonepay
+Income,Resturant,Bar,Outguest,Real Juice,2,Full,0.0,800.0,BILL NO 335,s,Fonepay
+Income,Adminstration,Service Charge,Outguest,Service Charge,0,Harry,0.0,1650.0,BILL NO 335,s,Fonepay
+Income,Resturant,Bar,Outguest,Mineral Water,6,Bottle,0.0,180.0,BILL NO 336,s,Fonepay
+Income,Resturant,Food,Outguest,Veg Fried Rice,1,Plate,0.0,150.0,BILL NO 336,s,Fonepay
+Income,Resturant,Food,Outguest,Chicken Fried Rice,4,Plate,0.0,800.0,BILL NO 336,s,Fonepay
+Income,Resturant,Bar,Outguest,Cold Drinks,1,Full,0.0,400.0,BILL NO 336,s,Fonepay
+Income,Adminstration,Service Charge,Outguest,Service Charge,0,Harry,0.0,150.0,BILL NO 336,s,Fonepay
+Income,Adminstration,Discount,Outguest,Discount,0,Harry,0.0,-835.0,BILL NO 336,s,Fonepay
+Income,Resturant,Food,Guddu Veg Shop,Black Tea,3,Cup,120.0,0.0,BILL NO 340,s,Debtor
+Expense,Adminstration,Misc,Local Market,Battery Charged,0,Harry,0.0,450.0,Harry,s,Cash
+Expense,Resturant,Bar,Shree Muna Kirana Stores,Coke,2,Full,0.0,500.0,BILL NO 908,s,Cash
+Expense,Adminstration,Fuel,Kalash Oil Srores,Petrol,2.82,Ltr,0.0,500.0,BILL NO 15019,s,Cash
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,2,Kg,120.0,0.0,BILL NO 1674,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Green Chilly,500,Gram,60.0,0.0,Harry,r,Creditor
+Expense,Kitchen,Vegetables,Sarita Sirmal,Saag,5,Mhuta,0.0,150.0,Harry,r,Cash
+Expense,Resturant,Bar,Shrestha Kirana Pasal,Red Bull,2,Bottle,0.0,480.0,BILL NO 172,r,Cash
+Income,Room,107,Shyam Gurung,Room,1,Day,0.0,800.0,BILL NO 342,s,Cash
+Income,Room,207,Dipesh Thapa,Room,1,Day,0.0,1200.0,BILL NO 341,s,Fonepay
+Income,Resturant,Food,Dipesh Thapa,Chicken Khana,1,Plate,0.0,400.0,BILL NO 341,s,Fonepay
+Expense,Adminstration,Repair and Maintainance,Bablu Kumar,Jipson Fitting,0,Harry,0.0,1000.0,Harry,s,Cash
+Income,Room,306,Sharan Panta,Room,1,Day,0.0,1200.0,BILL NO 343,s,Cash
+Income,Room,307,Sharan Panta,Room,1,Day,0.0,1200.0,BILL NO 343,s,Cash
+Income,Resturant,Food,Sharan Panta,Mutton Khana,7,Plate,0.0,3150.0,BILL NO 343,s,Cash
+Income,Resturant,Food,Sharan Panta,Chips Chilly,1,Plate,0.0,170.0,BILL NO 343,s,Cash
+Income,Resturant,Food,Sharan Panta,Bhatmas Sadheko,2,Plate,0.0,400.0,BILL NO 343,s,Cash
+Income,Resturant,Bar,Sharan Panta,Red Bull,1,Can,0.0,350.0,BILL NO 343,s,Cash
+Income,Resturant,Food,Sharan Panta,Veg Boil,1,Plate,0.0,200.0,BILL NO 343,s,Cash
+Income,Resturant,Food,Sharan Panta,Hot Lemon W.H,1,Glass,0.0,180.0,BILL NO 343,s,Cash
+Income,Resturant,Bar,Sharan Panta,Khukuri Rum,1,Full,0.0,3500.0,BILL NO 343,s,Cash
+Income,Adminstration,Discount,Sharan Panta,Discount,0,Harry,0.0,-350.0,BILL NO 343,s,Cash
+Income,Room,106,Lil Bahadur Thapa,Room,1,Day,0.0,1200.0,BILL NO 347,s,Cash
+Income,Resturant,Food,Lil Bahadur Thapa,Veg Khana,2,Plate,0.0,600.0,BILL NO 347,s,Cash
+Income,Resturant,Food,Lil Bahadur Thapa,Veg Roti Set,2,Set,0.0,600.0,BILL NO 347,s,Cash
+Income,Resturant,Food,Lil Bahadur Thapa,Chicken Chilly B/L,1,Plate,0.0,350.0,BILL NO 347,s,Cash
+Income,Resturant,Food,Lil Bahadur Thapa,French Fries,2,Plate,0.0,400.0,BILL NO 347,s,Cash
+Income,Resturant,Food,Lil Bahadur Thapa,Peanuts Sandeko,1,Plate,0.0,150.0,BILL NO 347,s,Cash
+Income,Resturant,Bar,Lil Bahadur Thapa,Gorkha Strong Beer,1,Bottle,0.0,500.0,BILL NO 347,s,Cash
+Income,Resturant,Bar,Lil Bahadur Thapa,Khukuri Rum,1,Qtr,0.0,650.0,BILL NO 347,s,Cash
+Income,Resturant,Bar,Lil Bahadur Thapa,Mineral Water,2,Bottle,0.0,60.0,BILL NO 347,s,Cash
+Income,Adminstration,Service Charge,Lil Bahadur Thapa,Service Charge,0,Harry,0.0,330.0,BILL NO 347,s,Cash
+Income,Resturant,Food,Outguest,Black Coffee,4,Cup,0.0,200.0,BILL NO 348,s,Cash
+Income,Resturant,Food,Outguest,Milk Coffee,1,Cup,0.0,100.0,BILL NO 348,s,Cash
+Income,Resturant,Food,Outguest,Hot Lemon W.H,1,Glass,0.0,180.0,BILL NO 348,s,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Paneer,1,Kg,840.0,0.0,BILL NO 723,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Beans,2,Kg,240.0,0.0,BILL NO 1675,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cauliflower,3,Kg,240.0,0.0,BILL NO 1675,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Lemon,500,Gram,150.0,0.0,BILL NO 1675,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Onion,10,Kg,750.0,0.0,BILL NO 1675,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,2,Kg,120.0,0.0,BILL NO 1675,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Banana,6,Kg,60.0,0.0,BILL NO 1675,r,Creditor
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Room Spray,2,Bottle,0.0,480.0,BILL NO 173,r,Cash
+Income,Room,206,Laxman Gurung,Room,1,Day,0.0,1000.0,BILL NO 346,s,Cash
+Income,Room,207,Laxman Gurung,Room,1,Day,0.0,1000.0,BILL NO 346,s,Cash
+Income,Room,104,Gorkha Inn Hotel,Room,1,Day,1500.0,0.0,BILL NO 349,s,Debtor
+Income,Room,105,Gorkha Inn Hotel,Room,1,Day,1500.0,0.0,BILL NO  349,s,Debtor
+Income,Room,201,Gorkha Inn Hotel,Room,1,Day,1500.0,0.0,BILL NO 349,s,Debtor
+Income,Room,204,Gorkha Inn Hotel,Room,1,Day,1500.0,0.0,BILL NO 349,s,Debtor
+Income,Room,205,Gorkha Inn Hotel,Room,1,Day,1500.0,0.0,BILL NO 349,s,Debtor
+Income,Room,301,Gorkha Inn Hotel,Room,1,Day,1500.0,0.0,BILL NO 349,s,Debtor
+Income,Room,304,Gorkha Inn Hotel,Room,1,Day,1500.0,0.0,BILL NO 349,s,Debtor
+Income,Room,305,Gorkha Inn Hotel,Room,1,Day,1500.0,0.0,BILL NO 349,s,Debtor
+Expense,Kitchen,Vegetables,Kumar Shurketi,Corrainder,500,Gm,0.0,100.0,Harry,s,Cash
+Income,Resturant,Food,Guddu Das,Black Tea,2,Cup,80.0,0.0,BILL NO 350,r,Debtor
+Expense,Kitchen,Vegetables,Sarita Sirmal,Saag,4,Mhuta,0.0,120.0,Harry,r,Cash
+Expense,Kitchen,Food,Gorkha Mini Mart,Chicken Sausage,2,Packet,0.0,760.0,BILL NO 06944,r,Cash
+Income,Room,107,Shila Gurung,Room,1,Day,0.0,1500.0,BILL NO 701,s,Cash
+Income,Resturant,Food,Shila Gurung,Jaulo,1,Boul,0.0,100.0,BILL NO 701,s,Cash
+Income,Resturant,Food,Shila Gurung,Black Tea,3,Cup,0.0,120.0,BILL NO 701,s,Cash
+Income,Resturant,Food,Shila Gurung,French Fries,1,Plate,0.0,200.0,BILL NO 701,s,Cash
+Income,Resturant,Food,Shila Gurung,Chicken Sausage Fry,1,Plate,0.0,200.0,BILL NO 701,s,Cash
+Income,Resturant,Food,Shila Gurung,Miracle Platter Meat Lovers,1,Set,0.0,1100.0,BILL NO 701,s,Cash
+Income,Resturant,Bar,Shila Gurung,Cold Drinks,3,Glass,0.0,210.0,BILL NO 701,s,Cash
+Income,Resturant,Bar,Shila Gurung,Khukuri Rum,1,Qtr,0.0,650.0,BILL NO 701,s,Cash
+Income,Adminstration,Service Charge,Shila Gurung,Service Charge,0,Harry,0.0,260.0,BILL NO 701,s,Cash
+Income,Adminstration,Discount,Shila Gurung,Discount,0,Harry,0.0,-40.0,BILL NO 701,s,Cash
+Income,Room,201,Prithivi Gurung,Room,1,Day,0.0,1500.0,BILL NO 702,s,Cash
+Income,Resturant,Food,Prithivi Gurung,Veg Boil,2,Plate,0.0,400.0,BILL NO 702,s,Cash
+Income,Resturant,Food,Prithivi Gurung,Chicken Sausage Fry,3,Plate,0.0,600.0,BILL NO 702,s,Cash
+Income,Resturant,Food,Prithivi Gurung,Plain Peanuts,2,Plate,0.0,200.0,BILL NO 702,s,Cash
+Income,Resturant,Bar,Prithivi Gurung,Khukuri Rum,3,Qtr,0.0,1950.0,BILL NO 702,s,Cash
+Income,Adminstration,Discount,Prithivi Gurung,Discount,0,Harry,0.0,-150.0,BILL NO 702,s,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Milk,2,Packet,0.0,120.0,BILL NO 174,s,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,5,Packet,300.0,0.0,BILL NO 724,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Curd,5,Packet,375.0,0.0,BILL NO 724,s,Creditor
+Income,Room,304,Prakash Lamichhane,Room,1,Day,0.0,1800.0,BILL NO 707,s,Cash
+Income,Resturant,Food,Prakash Lamichhane,Chicken Momo,1,Plate,0.0,225.0,BILL NO 707,s,Cash
+Income,Resturant,Food,Prakash Lamichhane,Chicken Khana,2,Plate,0.0,800.0,BILL NO 707,s,Cash
+Income,Resturant,Food,Prakash Lamichhane,Chicken Chilly B/L,1,Plate,0.0,350.0,BILL NO 707,s,Cash
+Income,Room,204,Abhishek Adhikari,Room,1,Day,0.0,2000.0,BILL NO 708,s,Cash
+Income,Room,205,Abhishek Adhikari,Room,1,Day,0.0,2000.0,BILL NO 708,s,Cash
+Income,Resturant,Food,Abhishek Adhikari,Mutton Khana,2,Plate,0.0,900.0,BILL NO 708,s,Cash
+Income,Resturant,Food,Abhishek Adhikari,Chicken Khana,2,Plate,0.0,800.0,BILL NO 708,s,Cash
+Income,Resturant,Food,Abhishek Adhikari,Plain Chapati,2,Piece,0.0,50.0,BILL NO 708,s,Cash
+Income,Resturant,Food,Abhishek Adhikari,Mix Veg Curry,1,Plate,0.0,175.0,BILL NO 708,s,Cash
+Income,Resturant,Food,Abhishek Adhikari,Lemon Tea,2,Cup,0.0,80.0,BILL NO 708,s,Cash
+Income,Resturant,Food,Abhishek Adhikari,Milk Tea,2,Cup,0.0,130.0,BILL NO 708,s,Cash
+Income,Resturant,Food,Abhishek Adhikari,Milk Coffee,1,Cup,0.0,100.0,BILL NO 708,s,Cash
+Income,Resturant,Food,Abhishek Adhikari,Normal Breakfast,2,Set,0.0,600.0,BILL NO 708,s,Cash
+Income,Resturant,Bar,Abhishek Adhikari,Mineral Water,4,Bottle,0.0,120.0,BILL NO 708,s,Cash
+Income,Adminstration,Discount,Abhishek Adhikari,Discount,0,Harry,0.0,-55.0,BILL NO 708,s,Cash
+Income,Resturant,Food,Guddu Veg Shop,Milk Coffee,3,Cup,300.0,0.0,BILL NO 709,s,Cash
+Expense,Adminstration,Water,Gorkha Mineral Water Udhyog,Water Jar,6,Jar,360.0,0.0,BILL NO 3313,s,Creditor
+Income,Resturant,Food,Outguest,Chicken Khana,3,Plate,0.0,1200.0,BILL NO 710,s,Cash
+Expense,Kitchen,Food,Gorkha Mini Mart,Sugar,2,Kg,0.0,200.0,BILL NO 06991,r,Cash
+Income,Room,106,Rohit Gurung,Room,1,Day,0.0,1200.0,BILL NO 711,s,Cash
+Income,Resturant,Food,Rohit Gurung,Chicken Khana,1,Plate,0.0,400.0,BILL No 711,s,Cash
+Income,Resturant,Food,Rohit Gurung,Normal Breakfast,1,Set,0.0,300.0,BILL NO 711,s,Cash
+Income,Room,207,Sitaram Nepal,Room,1,Day,0.0,1000.0,BILL No 712,s,Cash
+Income,Resturant,Food,Sitaram Nepal,Mutton,1,Plate,0.0,450.0,BILL NO 712,s,Cash
+Income,Room,206,Kumar Neupane,Room,1,Day,0.0,1000.0,BILL NO 714,s,Cash
+Income,Resturant,Food,Kumar Neupane,Veg Roti Set,1,Set,0.0,300.0,BILL NO 714,s,Cash
+Income,Room,205,Anil Gurung,Room,1,Day,0.0,1200.0,BILL NO 713,s,Fonepay
+Income,Resturant,Food,Anil Gurung,Normal Breakfast,1,Set,0.0,300.0,BILL NO 713,s,Fonepay
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Ajino Moto,2,Packet,200.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,B Peper Seed,1,Packet,750.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Mustard Oil,2,Packet,330.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Peanuts Roasted,4,Packet,640.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Sugar,5,Kg,475.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Staff Rice,1,Bora,1950.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Cumin Seed,1,Packet,275.0,0.0,BILL NO 22,s,Creditor
+Expense,Adminstration,Misc,Bishow Medical Hall,Handiplaste,10,Piece,0.0,50.0,BILL NO 275,s,Cash
+Expense,Adminstration,Misc,Local Market,Toilet Brush,2,Piece,0.0,200.0,BILL NO 965,s,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,5,Packet,300.0,0.0,BILL NO 725,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Bread,2,Packet,120.0,0.0,BILL NO 725,s,Creditor
+Expense,Adminstration,Water,Sanjibani Water Suppliers,Mineral Water,15,Case,0.0,2550.0,Harry,s,Cash
+Expense,Adminstration,Misc,Local Market,Black Tape,2,Piece,0.0,50.0,Harry,r,Cash
+Expense,Adminstration,Misc,Aryal Bejuli Pasal,Clip,1,Packet,0.0,80.0,BILL NO 1858,r,Cash
+Income,Resturant,Food,Guddu Das,Milk Coffee,2,Cup,200.0,0.0,BILL NO 715,r,Debtor
+Income,Resturant,Food,Office,Black Coffee,4,Cup,200.0,0.0,BILL NO 716,r,Debtor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cabbage,1,Kg,50.0,0.0,BILL NO 1676,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Capsicum,500,Gram,70.0,0.0,BILL NO 1676,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,carrot,1,Kg,90.0,0.0,BILL NO 1676,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cucumber,1,Kg,80.0,0.0,BILL NO 1676,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,3,Kg,180.0,0.0,BILL NO 1676,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Apple,1,Kg,250.0,0.0,BILL NO 1676,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Orange,1,Kg,120.0,0.0,BILL NO 1676,r,Creditor
+Income,Room,207,Samjhana Pathak,Room,1,Day,0.0,1000.0,BILL NO 717,s,Fonepay
+Income,Resturant,Food,Samjhana Pathak,Vag Khana,1,Plate,0.0,300.0,BILL NO 717,s,Fonepay
+Income,Resturant,Food,Samjhana Pathak,Plain Chapati,1,Piece,0.0,25.0,BILL NO 717,s,Fonepay
+Income,Resturant,Food,Samjhana Pathak,Mix Veg Curry,Half,Plate,0.0,100.0,BILL NO 717,s,Fonepay
+Income,Adminstration,Discount,Samjhana Pathak,Discount,0,Harry,0.0,-25.0,BILL NO 717,s,Fonepay
+Expense,Kitchen,Food,Samjhana Fruits Suppliers,Orange,1,Kg,0.0,140.0,BILL NO 171,s,Cash
+Income,Room,201,Puskar Gurung,Room,1,Day,0.0,1500.0,BILL NO 718,s,Cash
+Income,Resturant,Food,Puskar Gurung,Chicken Nugget,2,Plate,0.0,700.0,BILL NO 718,s,Cash
+Income,Resturant,Food,Puskar Gurung,Fish Finger,1,Plate,0.0,350.0,BILL NO 718,s,Cash
+Income,Resturant,Food,Puskar Gurung,Kaju Fried,1,Plate,0.0,300.0,BILL NO 718,s,Cash
+Income,Resturant,Food,Puskar Gurung,Mix Fried Rice,2,Plate,0.0,600.0,BILL NO 718,s,Cash
+Income,Resturant,Food,Puskar Gurung,English Style Breakfast,2,Set,0.0,800.0,BILL NO 718,s,Cash
+Income,Resturant,Bar,Puskar Gurung,Old Durbar,2,Qtr,0.0,1700.0,BILL NO 718,s,Cash
+Income,Room,206,Raj Kumar Sunar,Room,1,Day,0.0,1000.0,BILL NO 720,s,Cash
+Income,Resturant,Food,Raj Kumar Sunar,Chicken Biryani,1,Plate,0.0,350.0,BILL NO 720,s,Cash
+Income,Resturant,Food,Raj Kumar Sunar,Chicken Momo,1,Plate,0.0,225.0,BILL NO 720,s,Cash
+Income,Adminstration,Discount,Raj Kumar Sunar,Discount,0,Harry,0.0,-75.0,BILL NO 720,s,Cash
+Expense,Adminstration,Fuel,Kalash Oil Srores,Petrol,5,Ltr,0.0,900.0,BILL NO 15409,s,Cash
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Ajino Moto,2,Packet,200.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Corrainder Powder,2,Packet,85.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Termeric Powder,1,Packet,200.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Coffee,1,Packet,1100.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Corn Flour,3,Packet,450.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Curry Powder,10,Piece,450.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Clove,100,Gm,200.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Green Cardamon,100,Gm,400.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Magaj,500,Gm,1000.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Cumin Powder,400,Gm,350.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Sunflower Oil,2,Box,5000.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Sismi Seed,500,Gm,200.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Sugar,3,Kg,285.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Rogani Mirch,10,Piece,750.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Papad,10,Packet,2200.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Ghee,4,Bottle,2400.0,0.0,BILL NO 22,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Mustard Oil,6,Ltr,1980.0,0.0,BILL NO 23,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Kaju,500,Gm,900.0,0.0,BILL NO 23,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Rajma,6,Kg,1020.0,0.0,BILL NO 23,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,5,Packet,300.0,0.0,BILL NO 726,r,Creditor
+Expense,Kitchen,Meat,Bhabana Stores,Chicken ,50,Kg,18500.0,0.0,BILL NO 1076,r,Creditor
+Expense,Adminstration,Rent,Sher Bdr Rana (Hotel Inside),Payment for Guest Being Stay,0,Harry,0.0,4500.0,Harry,r,Cash
+Income,Room,106,Phurpa Tamang,Room,1.5,Day,0.0,1500.0,BILL NO 721,r,Cash
+Income,Resturant,Food,Phurpa Tamang,Milk Coffee,4,Cup,0.0,400.0,BILL NO 721,r,Cash
+Income,Resturant,Food,Phurpa Tamang,Poch Egg,2,Piece,0.0,100.0,BILL NO 721,r,Cash
+Income,Adminstration,VAT,NOC Nepal (Sheetal Maskey Sir),VAT,0,Harry,1347.45,0.0,Invoice No 238,r,Debtor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Banana,6,Piece,70.0,0.0,BILL NO 1677,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Beans,7,Kg,840.0,0.0,BILL NO 1677,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cabbage,3,Kg,180.0,0.0,BILL NO 1677,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Capsicum,2,Kg,280.0,0.0,BILL NO 1677,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Carrot,7,Kg,630.0,0.0,BILL NO 1677,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cauliflower,8,Kg,650.0,0.0,BILL NO 1677,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Green Chilly,2,Kg,240.0,0.0,BILL NO 1677,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cucumber,7,Kg,560.0,0.0,BILL NO 1677,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Garlic,1,Kg,350.0,0.0,BILL NO 1677,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Lemon,1,Kg,300.0,0.0,BILL NO 1677,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Onion,20,Kg,1500.0,0.0,BILL NO 1677,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Potato,15,Kg,900.0,0.0,BILL NO 1677,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Radish,7,Kg,420.0,0.0,BILL NO 1677,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,10,Kg,700.0,0.0,BILL NO 1677,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Apple,3,Kg,750.0,0.0,BILL NO 1677,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Banana,3,Darzan,420.0,0.0,BILL NO 1677,r,Creditor
+Expense,Adminstration,Misc,Ganesh Bhada Pasal,Wine Glass,1,carton,10200.0,0.0,BILL NO 01,r,Creditor
+Expense,Adminstration,Misc,Ganesh Bhada Pasal,Plate,144,Piece,20160.0,0.0,BILL NO 01,r,Creditor
+Expense,Adminstration,Misc,Ganesh Bhada Pasal,Tea Spoon,4,Darzan,1600.0,0.0,BILL NO 01,r,Creditor
+Expense,Adminstration,Misc,Ganesh Bhada Pasal,Sauce Bottle,5,Piece,450.0,0.0,BILL NO 01,r,Creditor
+Expense,Adminstration,Misc,Ganesh Bhada Pasal,Lighter,2,Piece,500.0,0.0,BILL NO 01,r,Creditor
+Expense,Adminstration,Misc,Ganesh Bhada Pasal,Jhajar,2,Piece,1100.0,0.0,BILL NO 01,r,Creditor
+Expense,Adminstration,Misc,Ganesh Bhada Pasal,Channe,1,Piece,90.0,0.0,BILL NO 01,r,Creditor
+Expense,Adminstration,Misc,Ganesh Bhada Pasal,Steel Dhadu,1,Piece,550.0,0.0,BILL NO 01,r,Creditor
+Expense,Adminstration,Misc,Ganesh Bhada Pasal,Sprit,5,Piece,625.0,0.0,BILL NO 21,r,Creditor
+Expense,Adminstration,Misc,Ganesh Bhada Pasal,Fork,5,Piece,500.0,0.0,BILL NO 21,r,Creditor
+Expense,Adminstration,Misc,Ganesh Bhada Pasal,Pitambar,2,Packet,100.0,0.0,BILL NO 21,r,Creditor
+Expense,Kitchen,Fuel,Ganesh Bhada Pasal,Gas,10,Piece,18500.0,0.0,BILL NO 21,r,Creditor
+Expense,Adminstration,Misc,Ganesh Bhada Pasal,Glass,10,Piece,1000.0,0.0,BILL NO 21,r,Creditor
+Expense,Adminstration,Misc,Ganesh Bhada Pasal,Mixture Jar,1,Piece,750.0,0.0,BILL NO 21,r,Creditor
+Expense,Adminstration,Misc,Ganesh Bhada Pasal,Paper Cup,3,Roll,330.0,0.0,BILL NO 21,r,Creditor
+Income,Resturant,Food,Outguest,Chicken Momo,2,Plate,0.0,450.0,BILL NO 722,r,Cash
+Expense,Adminstration,Salary,Gaurav Maskey,Adv Salary,0,Harry,0.0,1000.0,Poush,r,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Bread,3,Packet,180.0,0.0,BILL NO 613,r,Creditor
+Expense,Kitchen,Meat,Salim Quality Meat Shop,Mutton,45,Kg,49500.0,0.0,BILL NO 855,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Guest Rice,5,Kg,875.0,0.0,BILL NO 24,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Guest Rice,20,Kg,3300.0,0.0,BILL NO 24,r,Creditor
+Expense,Kitchen,Misc,Joshi Quality Kirana pasal,Dish Soap,1,Pack,550.0,0.0,BILL NO 24,r,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Curd,30,Packet,2250.0,0.0,BILL NO 727,r,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Panner,6,Kg,5040.0,0.0,BILL NO 727,r,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,20,Packet,1200.0,0.0,BILL NO 727,r,Creditor
+Income,Room,204,Bishnu K.C,Room,1,Day,0.0,2000.0,BILL NO 723,r,Fonepay
+Income,Room,205,Bishnu K.C,Room,1,Day,0.0,2000.0,BILL NO 723,r,Fonepay
+Income,Room,206,Bishnu K.C,Room,1,Day,0.0,1000.0,BILL NO 723,r,Fonepay
+Income,Resturant,Food,Bishnu K.C,Milk Tea,2,Cup,0.0,130.0,BILL NO 723,r,Fonepay
+Income,Resturant,Bar,Bishnu K.C,Tuborg Beer,2,Bottle,0.0,1110.0,BILL NO 723,r,Fonepay
+Income,Adminstration,VAT,Bishnu K.C,VAT,0,Harry,0.0,351.0,Invoice No 240,r,Fonepay
+Income,Adminstration,VAT,Bishnu K.C,VAT,0,Harry,0.0,312.0,Invoice No 241,r,Fonepay
+Income,Adminstration,Discount,Bishnu K.C,Discount,0,Harry,0.0,-3.0,BILL NO 723,r,Fonepay
+Income,Room,106,Gyanendra Shrestha,Room,1,Day,0.0,700.0,BILL NO 724,r,Cash
+Expense,Adminstration,Misc,Local Market,Desset Bowl,6,packet,0.0,480.0,BILL NO 969,r,Cash
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Dish Soap,1,Darzan,0.0,100.0,BILL NO 179,r,Cash
+Expense,Kitchen,Food,Local Market,Green Peas,6,Packet,0.0,1920.0,BILL NO 09,r,Cash
+Expense,Adminstration,Misc,Gorkha Mineral Water Udhyog,Water Jar,5,Jar,300.0,0.0,BILL NO 3322,r,Creditor
+Income,Room,207,Bishnu Dhakal,Room,1,Day,0.0,1200.0,BILL NO 725,r,Fonepay
+Income,Resturant,Bar,Bishnu Dhakal,Khukuri Rum,2,Qtr,0.0,1300.0,BILL NO 725,r,Fonepay
+Income,Room,301,Sabin Magar Rana,Room ,1,Day,0.0,1500.0,BILL NO 726,r,Cash
+Income,Resturant,Food,Sabin Magar Rana,Chicken Khana,2,Plate,0.0,800.0,BILL NO 726,r,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Curd,10,Packet,750.0,0.0,BILL NO 728,r,Creditor
+Expense,Adminstration,Misc,Gorkha Mineral Water Udhyog,Water Jar,10,Jar,600.0,0.0,BILL NO 3323,r,Creditor
+Income,Resturant,Bar,Out Guest,8848 Vodka,60,ml,0.0,300.0,BILL NO 727,r,Cash
+Income,Room,204,Ankit Sunar,Room,1,Day,0.0,1500.0,BILL NO 728,r,Cash
+Income,Room,307,Sajan Gurung,Room,1,Day,0.0,1200.0,BILL NO 729,r,Fonepay
+Income,Resturant,Food,Sajan Gurung,Milk Coffee,2,Cup,0.0,200.0,BILL NO 729,r,Fonepay
+Income,Room,304,Prarmila Khadka,Room,1,Day,0.0,2000.0,BILL NO 730,r,Fonepay
+Income,Resturant,Food,Out Guest,Milk Coffee,2,Cup,0.0,200.0,BILL NO 731,r,Cash
+Income,Resturant,Food,Out Guest,Mineral Water,2,Bottle,0.0,60.0,BILL NO 731,r,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,10,Packet,600.0,0.0,BILL NO 729,r,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Panner,8,Kg,6720.0,0.0,BILL NO 729,r,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Butter,1,Packet,1375.0,0.0,BILL NO 729,r,Creditor
+Income,Room,106,Gyanendra Shrestha,Room,1,Day,0.0,700.0,BILL NO 732,r,Cash
+Income,Resturant,Food,Gyanendra Shrestha,Black Chimney,1,Qtr,0.0,1200.0,BILL NO 732,r,cash
+Expense,Adminstration,Misc,Local Market,Ballons,2,Packet,0.0,500.0,Harry,r,Cash
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Black Pepeer Seed,1,Packet,750.0,0.0,BILL NO 25,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Kaju,1,Packet,900.0,0.0,BILL NO 25,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Chilly Powder,1,Packet,300.0,0.0,BILL NO 25,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Corn Flour,7,Packet,1050.0,0.0,BILL NO 25,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Corrainder Powder,2,Packet,170.0,0.0,BILL NO 25,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Cumin Powder,2,Packet,370.0,0.0,BILL NO 25,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Curry Powder,5,Packet,250.0,0.0,BILL NO 25,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Methi,2,Packet,50.0,0.0,BILL NO 25,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Green Cardamon,2,Packet,400.0,0.0,BILL NO 25,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Guest Rice,10,Kg,3300.0,0.0,BILL NO 25,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Guest Rice,20,Kg,1750.0,0.0,BILL NO 25,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Jaifal,15,Piece,150.0,0.0,BILL NO 25,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Methi,4,Packet,240.0,0.0,BILL NO 25,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Kismis,2,Packet,300.0,0.0,BILL NO 25,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Mustard Oil,8,Ltr,2080.0,0.0,BILL NO 25,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Ghee,5,Bottle,3000.0,0.0,BILL NO 26,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Rajma,7,Kg,1190.0,0.0,BILL NO 26,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,White Sesame Seed,500,Gm,200.0,0.0,BILL NO 26,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Sunflower Oil,3,Case,7500.0,0.0,BILL NO 26,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Termeric Powder,4,Packet,800.0,0.0,BILL NO 26,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Tomato Ketchup,1,Bottle,1050.0,0.0,BILL NO 26,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Vinegar,2,Bottle,160.0,0.0,BILL NO 26,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Rogani Mirch,1,Bandel,650.0,0.0,BILL NO 26,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Clove,2,Packet,200.0,0.0,BILL NO 26,s,Creditor
+Income,Resturant,Food,Guddu Veg Shop,Milk Coffee,3,Cup,300.0,0.0,BILL NO 734,s,Debtor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Beans,10,Kg,1200.0,0.0,BILL NO 1678,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cabbage,2,Kg,120.0,0.0,BILL NO 1678,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Capsicum,4,Kg,560.0,0.0,BILL NO 1678,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Carrot,25,Kg,2250.0,0.0,BILL NO 1678,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cauliflower,12,Kg,960.0,0.0,BILL NO 1678,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Green Chilly,2,Kg,240.0,0.0,BILL NO 1678,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cucumber,8,Kg,640.0,0.0,BILL NO 1678,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Mushroom,15,Kg,4500.0,0.0,BILL NO 1678,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Garlic,2,Kg,700.0,0.0,BILL NO 1678,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Lemon,1,Kg,300.0,0.0,BILL NO 1678,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Onion,30,Kg,2100.0,0.0,BILL NO 1678,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Potato,40,Kg,2400.0,0.0,BILL NO 1678,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,15,Kg,900.0,0.0,BILL NO 1678,s,Creditor
+Expense,Kitchen,Meat,Salim Quality Meat Shop,Mutton,40,Kg,44000.0,0.0,BILL NO 856,s,Creditor
+Income,Room,206,Rupa Ghale,Room,1,Day,0.0,1000.0,BILL NO 733,s,Cash
+Income,Resturant,Food,Rupa Ghale,Mutton Khana,2,Plate,0.0,900.0,BILL NO 733,s,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,15,Packet,900.0,0.0,BILL NO 730,s,Creditor
+Expense,Kitchen,Meat,Bhabana Stores,Chicken,80,Kg,29600.0,0.0,BILL NO 1077,s,Creditor
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Detergent Powder,1,Packet,0.0,440.0,BILL NO 182,s,Cash
+Expense,Kitchen,Food,Kausal Kirana Pasal,Salt,10,Packet,0.0,210.0,BILL NO 344,s,Cash
+Expense,Kitchen,Food,Bhabana Stores,Egg,1,Case,2650.0,0.0,BILL NO 1078,s,Creditor
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Plastic 1 Kg,2,Packet,0.0,100.0,BILL NO 181,s,Cash
+Expense,Adminstration,Water,Gorkha Mineral Water Udhyog,Water Jar,10,Jar,600.0,0.0,BILL NO 3327,s,Creditor
+Expense,Adminstration,Salary,Sarita Sirmal,Adv Salary,0,Harry,0.0,10000.0,Poush,s,Office Money
+Expense,Kitchen,Vegetables,Sarita Sirmal,Saag,25,Mutha,0.0,750.0,Harry,s,Cash
+Expense,Kitchen,Vegetables,Sarita Sirmal,Radish,8,Kg,0.0,400.0,Harry,s,Cash
+Expense,Kitchen,Vegetables,Sarita Sirmal,Corrainder,1,Kg,0.0,200.0,Harry,s,Cash
+Expense,Adminstration,Misc,Grishma Interprises,Plastic Boul,5,Packet,0.0,450.0,BILL NO 121,s,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Cornflour,2,Packet,0.0,300.0,BILL NO 183,s,Cash
+Expense,Kitchen,Food,Binod Kirana Pasal,Green Peas,6,Kg,0.0,1800.0,BILL NO 471,s,Cash
+Expense,Adminstration,Misc,Bishow Medical Hall,Medician,1,packet,0.0,20.0,Harry,s,Cash
+Income,Resturant,Food,Raju Bhatta,Khana Set,186,Plate,0.0,134850.0,BILL NO 735,s,Cash
+Income,Adminstration,Discount,Raju Bhatta,Discount,0,Harry,0.0,-850.0,BILL NO 735,s,Cash
+Expense,Adminstration,Misc,Kalika Plastic Centre,Plastic Spoon,4,Packet,0.0,480.0,BILL NO 28,s,Cash
+Expense,Kitchen,Meat,Bhabana Stores,Chicken,20,Kg,7400.0,0.0,BILL NO 1079,r,Creditor
+Expense,Adminstration,Misc,Grisma Interprises,Plastic Spoon,5,Packet,0.0,500.0,BILL NO 122,r,Cash
+Expense,Adminstration,Misc,Bishow Medical Hall,Silver Chlor,1,Packet,0.0,65.0,BILL NO 277,r,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Cornflour,3,Packet,0.0,450.0,BILL NO 184,r,Cash
+Expense,Kitchen,Food,Local Market,Sweet Corn,10,Packet,0.0,3200.0,BILL NO 003,r,Cash
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cauliflower,3,Kg,240.0,0.0,BILL NO 1679,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Beans,3,Kg,360.0,0.0,BILL NO 1679,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Garlic,2,Kg,700.0,0.0,BILL NO 1679,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Mushroom,4,Kg,1200.0,0.0,BILL NO 1679,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,2,Kg,120.0,0.0,BILL NO 1679,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal, Milk (Dabba),2,Packet,300.0,0.0,BILL NO 27,r,Creditor
+Expense,Kitchen,Meat,Bhabana Stores,Chicken,10,Kg,3700.0,0.0,BILL NO 1080,r,Creditor
+Expense,Resturant,Misc,Local Market,Cigaratte,5,Packet,0.0,1600.0,BILL NO 773,r,Cash
+Expense,Resturant,Bar,Local Market,Champain ,1,Bottle,0.0,3500.0,Harry,r,Cash
+Income,Room,106,Pokharel Hardware (Saroj Pokharel),Room,1,Day,1000.0,0.0,BILL NO 736,s,Debtor
+Income,Resturant,Food,Pokharel Hardware (Saroj Pokharel),Mutton Khana,2,Plate,900.0,0.0,BILL NO 736,s,Debtor
+Income,Room,204,Krishna B.k,Room,1,Day,0.0,2000.0,BILL NO 738,s,Cash
+Income,Resturant,Food,Krishna B.k,Normal Breakfast,1,Set,0.0,300.0,BILL NO 738,s,Cash
+Income,Resturant,Food,Krishna B.k,Plain Rice,1,Plate,0.0,100.0,BILL NO 738,s,Cash
+Income,Resturant,Food,Krishna B.k,Mutton Curry,1,Plate,0.0,350.0,BILL NO 738,s,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Bread,2,Packet,0.0,160.0,BILL NO 189,s,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Bread,1,Packet,0.0,60.0,BILL NO 189,s,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Milk,4,Packet,0.0,240.0,BILL NO 189,s,Cash
+Expense,Adminstration,Casual Payment,Sukman Nepali,Casual Payment,2,Day,0.0,3000.0,Harry,s,Cash
+Expense,Adminstration,Casual Payment,Amrit Magrati,Casual Payment,2,Day,0.0,3000.0,Harry,s,Cash
+Expense,Adminstration,Casual Payment,Mangal sirmal,Casual Payment,2,Day,0.0,3000.0,Harry,s,Cash
+Expense,Adminstration,Casual Payment,Dipak Magrati,Casual Payment,2,Day,0.0,3000.0,Harry,s,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Curd,4,Packet,0.0,280.0,BILL NO 190,s,Cash
+Income,Room,207,Gopal Babu Shrestha,Room,1,Day,0.0,1000.0,BILL NO 739,s,Cash
+Expense,Kitchen,Meat,Bhabana Stores,Chicken,10,Kg,3700.0,0.0,BILL NO 1081,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,5,Packet,300.0,0.0,BILL NO 731,s,Creditor
+Expense,Adminstration,Repair and Maintainance,Niraj Shah,Electrical Repair,0,Harry,0.0,7000.0,Harry,s,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Chicken Sausage,5,Packet,0.0,1600.0,BILL NO 193,s,Cash
+Expense,Resturant,Misc,Local Market,Cigaratte,1,Packet,0.0,450.0,Harry,s,Cash
+Income,Resturant,Food,Guddu Veg Shop,Milk Coffee,2,Cup,200.0,0.0,BILL NO 741,s,Debtor
+Income,Resturant,Food,Raj Tamang,Khana+Snacks,300,Plate,0.0,390000.0,BILL NO 743,s,Cash
+Income,Resturant,Food,Raj Tamang,Khana Set,65,Plate,0.0,45500.0,BILL NO 743,s,Cash
+Income,Room,201,Raj Tamang,Room,1,Day,0.0,2000.0,BILL NO 743,s,Cash
+Income,Room,107,Raj Tamang,Room,1,Day,0.0,800.0,BILL NO 743,s,Cash
+Income,Resturant,Bar,Raj Tamang,Cigaratte,8,Packet,0.0,3200.0,BILL NO 743,s,Cash
+Income,Resturant,Bar,Raj Tamang,Mineral Water,96,Bottle,0.0,2400.0,BILL NO 743,s,Cash
+Income,Resturant,Bar,Raj Tamang,Gorkha Strong Beer,12,Bottle,0.0,6000.0,BILL NO 743,s,Cash
+Income,Resturant,Bar,Raj Tamang,Imported Wine,1,Full,0.0,1600.0,BILL NO 743,s,Cash
+Income,Resturant,Bar,Raj Tamang,J.P Wine,3,Full,0.0,3500.0,BILL NO 743,s,Cash
+Income,Adminstration,Discount,Raj Tamang,Discount,0,Harry,0.0,-5000.0,BILL NO 743,s,Cash
+Income,Resturant,Food,Hari Maskey Sir,Miracle Khaja Set,3,Set,1200.0,0.0,BILL NO 744,s,Debtor
+Income,Resturant,Food,Hari Maskey Sir,Chicken Jhol Momo,3,Plate,900.0,0.0,BILL NO 744,s,Debtor
+Income,Resturant,Food,Hari Maskey Sir,Peanuts Sadheko,1,Plate,150.0,0.0,BILL NO 744,s,Debtor
+Income,Resturant,Food,Hari Maskey Sir,Green Salad,2,Plate,350.0,0.0,BILL NO 744,s,Debtor
+Income,Resturant,Food,Hari Maskey Sir,Milk Coffee,3,Cup,300.0,0.0,BILL NO 744,s,Debtor
+Income,Resturant,Bar,Hari Maskey Sir,8848 Vodka,2,Qtr,1300.0,0.0,BILL NO 744,s,Debtor
+Income,Adminstration,Discount,Hari Maskey Sir,Discount,0,Harry,-1050.0,0.0,BILL NO 744,s,Debtor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Banana,6,Piece,60.0,0.0,BILL NO 1680,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Gerlic,1,Kg,350.0,0.0,BILL NO 1680,s,Creditor
+Income,Resturant,Food,Gaurav Maskey,Paneer Finger,1,Plate,250.0,0.0,BILL NO 745,s,Debtor
+Income,Resturant,Food,Gaurav Maskey,Chicken Sausage Chilly,1,Plate,250.0,0.0,BILL NO 745,s,Debtor
+Income,Room,204,Bhoj Raj Regmi,Room,1,Day,0.0,1800.0,BILL NO 747,s,Cash
+Income,Resturant,Food,Bhoj Raj Regmi,Chicken Khana,2,Plate,0.0,800.0,BILL NO 747,s,Cash
+Expense,Adminstration,Water,Gorkha Mineral Water Udhyog,Water Jar,5,Jar,300.0,0.0,BILL NO 3331 ,s,Creditor
+Income,Resturant,Food,Outguest,Milk Coffee,3,Cup,0.0,300.0,BILL NO 748,s,Cash
+Income,Resturant,Food,Baburam Bhattarai,Veg Khana,15,Plate,4500.0,0.0,BILL NO 740,s,Debtor
+Expense,Adminstration,Water,Sanjibani Water Suppliers,Mineral Water,15,Case,0.0,2550.0,Harry,s,Cash
+Expense,Adminstration,Salary,Iman Thapa,Salary,0,Harry,0.0,12000.0,Poush,s,Office Money
+Expense,Adminstration,Salary,Iman Thapa,Clearness Salary,0,Harry,0.0,5500.0,Magh,s,Office Money
+Expense,Adminstration,Electricity,NEA,Electricity Monthly Payment,0,Harry,0.0,37850.0,Poush,r,Office Money
+Expense,Resturant,Misc,Kausal Kirana Pasal,Match Box,5,Packet,0.0,100.0,BILL NO 349,r,Cash
+Expense,Resturant,Misc,Manakamana Icecream Stores,Milk,5,Packet,300.0,0.0,BILL NO 733,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Corn Flour,2,Packet,300.0,0.0,BILL NO 28,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Mass Dal,2,Kg,300.0,0.0,BILL NO 28,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Musur Dal,2,Kg,300.0,0.0,BILL NO 28,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Rahar Dal,2,Kg,400.0,0.0,BILL NO 28,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Tea Leaves,1,Kg,550.0,0.0,BILL NO 28,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Sunflower Oil,1,Pack,2500.0,0.0,BILL NO 28,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Breadcrumb,3,Packet,800.0,0.0,BILL NO 28,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Kaju,500,Gram,850.0,0.0,BILL NO 28,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Staff Rice,25,Kg,1900.0,0.0,BILL NO 28,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Guest Rice,20,Kg,3000.0,0.0,BILL NO 28,r,Creditor
+Expense,Resturant,Bar,Shree Muna Kirana Stores,Khukuri Rum,1,Bottle,0.0,1900.0,BILL NO 940,r,Cash
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Potato ,10,Kg,600.0,0.0,BILL NO 1682,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Banana,6,Piece,70.0,0.0,BILL NO 1682,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Apple,2,Kg,500.0,0.0,BILL NO 1682,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Orange,1,Kg,150.0,0.0,BILL NO 1682,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,3,Kg,180.0,0.0,BILL NO 1682,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Radish,1,Kg,60.0,0.0,BILL NO 1682,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cauliflower,2,Kg,150.0,0.0,BILL NO 1682,r,Creditor
+Income,Resturant,Food,Out Guest,Nepali Khaja Set (Chi),4,Plate,0.0,1200.0,BILL NO 750,r,Cash
+Income,Resturant,Food,Out Guest,Veg Khaja,1,Plate,0.0,370.0,BILL NO 750,r,Cash
+Income,Resturant,Food,Out Guest,Chicken Khana,1,Plate,0.0,400.0,BILL NO 750,r,Cash
+Income,Adminstration,Discount,Out Guest,Discount,0,Harry,0.0,-226.85,BILL NO 750,r,Cash
+Income,Adminstration,VAT,Out Guest,VAT,0,Harry,0.0,226.85,Invoice No 242,r,Cash
+Income,Resturant,Food,Pavan Basnet,Chicken Khana,8,Plate,3200.0,0.0,BILL NO 601,r,Debtor
+Income,Resturant,Food,Pavan Basnet,Chicken Fried,3,Plate,1200.0,0.0,BILL NO 601,r,Debtor
+Income,Resturant,Bar,Pavan Basnet,Gorkha Strong Beer,1,Bottle,500.0,0.0,BILL NO 601,r,Debtor
+Income,Resturant,Food,Pavan Basnet,Green Salad,2,Plate,350.0,0.0,BILL NO 601,r,Debtor
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Colin,2,Bottle,0.0,260.0,BILL NO 195,s,Cash
+Income,Room,204,Arjun Shrestha,Room,1,Day,0.0,1500.0,BILL NO 602,s,Cash
+Income,Resturant,Food,Arjun Shrestha,Chicken Khana,1,Plate,0.0,400.0,BILL NO 602,s,Cash
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Kucho,1,Piece,0.0,120.0,BILL NO 197,s,Cash
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Jhadu,1,Piece,0.0,100.0,BILL NO 197,s,Cash
+Expense,Kitchen,Meat,Salim Quality Meat Shop,Mutton,500,Gm,0.0,550.0,BILL NO 961,s,Cash
+Income,Room,106,Prime Researces Pvt.Ltd,Room,1,Day,0.0,1000.0,Invoice No 243,s,Cash
+Income,Resturant,Food,Prime Researces Pvt.Ltd,Milk Tea,2,Cup,0.0,130.0,Invoice No 243,s,Cash
+Income,Adminstration,VAT,Prime Researces Pvt.Ltd,VAT,0,Harry,0.0,146.9,Invoice No 243,s,Cash
+Income,Adminstration,Discount,Prime Researces Pvt.Ltd,Discount,0,Harry,0.0,-76.9,Invoice No 243,s,Cash
+Income,Room,202,Chiranjivi Shrestha,Room,1,Day,0.0,2000.0,BILL NO 603,s,Cash
+Income,Room,207,Chiranjivi Shrestha,Room,1,Day,0.0,1000.0,BILL NO 603,s,Cash
+Income,Resturant,Bar,Chiranjivi Shrestha,Khukuri Rum,1,Full,0.0,3500.0,BILL NO 603,s,Cash
+Income,Resturant,Food,Chiranjivi Shrestha,Black Tea,5,Cup,0.0,200.0,BILL NO 603,s,Cash
+Income,Resturant,Food,Chiranjivi Shrestha,Black Coffee,1,Cup,0.0,50.0,BILL NO 603,s,Cash
+Income,Resturant,Food,Chiranjivi Shrestha,Milk Tea,1,Cup,0.0,65.0,BILL NO 603,s,Cash
+Income,Resturant,Food,Chiranjivi Shrestha,Chicken Fried,1,Plate,0.0,400.0,BILL NO 603,s,Cash
+Income,Resturant,Food,Chiranjivi Shrestha,Chicken Chilly,1,Plate,0.0,350.0,BILL NO 603,s,Cash
+Income,Resturant,Food,Chiranjivi Shrestha,Chicken Khana,5,Plate,0.0,2000.0,BILL NO 603,s,Cash
+Income,Resturant,Food,Chiranjivi Shrestha,Veg Khana,1,Plate,0.0,300.0,BILL NO 603,s,Cash
+Income,Adminstration,Service Charge,Chiranjivi Shrestha,Service Charge,0,Harry,0.0,685.0,BILL NO 603,s,Cash
+Income,Resturant,Food,Chiranjivi Shrestha,Chicken Jhol Momo,3,Plate,0.0,900.0,BILL NO 749,s,Cash
+Income,Resturant,Food,Chiranjivi Shrestha,Chicken Jhol Momo,Half,Plate,0.0,150.0,BILL NO 749,s,Cash
+Income,Resturant,Food,Chiranjivi Shrestha,Black Coffee,3,Cup,0.0,150.0,BILL NO 749,s,Cash
+Income,Resturant,Food,Chiranjivi Shrestha,Chicken Momo,2,Plate,0.0,450.0,BILL NO 749,s,Cash
+Income,Adminstration,Service Charge,Chiranjivi Shrestha,Service Charge,0,Harry,0.0,165.0,BILL NO 749,s,Cash
+Income,Resturant,Food,Chiranjivi Shrestha,Mutton Soup,Half,Kg,0.0,1000.0,BILL NO 604,s,Cash
+Income,Adminstration,Discount,Chiranjivi Shrestha,Discount,0,Harry,0.0,-365.0,BILL NO 603,s,Cash
+Expense,Adminstration,Rent,Mama Vanja Tent & Cataring Service,VIP Cheair,80,Piece,0.0,4000.0,BILL NO 309,s,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,2,Packet,120.0,0.0,BILL NO 734,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Bread,2,Packet,120.0,0.0,BILL NO 734,s,Creditor
+Expense,Adminstration,Water ,Gorkha Mineral Water Udhyog,Water Jar,4,Jar,240.0,0.0,BILL NO 3335,s,Creditor
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Detergent Powder,1,Packet,0.0,440.0,BILL NO 494,s,Cash
+Expense,Adminstration,Salary,Sonu Nepali,Salary,0,Harry,0.0,2100.0,Poush,s,Cash
+Expense,Adminstration,Salary,Sonu Nepali,Adv Salary,0,Harry,0.0,1400.0,Magh,s,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Bread,3,Packet,150.0,0.0,BILL NO 735,s,Creditor
+Income,Resturant,Food,Guddu Veg Shop,Milk Coffee,2,Cup,200.0,0.0,BILL NO 606,s,Debtor
+Income,Adminstration,Service Charge,Ram Bahadur Kunwar,Half Catering Package,1,Set,0.0,100000.0,BILL NO 607,r,Cash
+Income,Resturant,Bar,Ram Bahadur Kunwar,Water Jar,10,Jar,0.0,1000.0,BILL NO 607,r,Cash
+Income,Adminstration,Credit Collection,Pavan Basnet,Credit Collection,0,Harry,0.0,5000.0,Magh,r,Cash
+Expense,Kitchen,Vegetables,Sarita Sirmal,Corrainder,2,Kg,0.0,200.0,Harry,r,Cash
+Expense,Kitchen,Vegetables,Sarita Sirmal,Saag,2,Mhuta,0.0,60.0,Harry,r,Cash
+Expense,Adminstration,Misc,Local Market,Repair Cost of Invertor Battery,0,Harry,0.0,500.0,Harry,r,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Milk,5,Packet,0.0,300.0,BILL NO 199,r,Cash
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,2,Kg,120.0,0.0,BILL NO 1683,r,Creditor
+Income,Room,207,Nirmal Adhikari,Room,1,Day,0.0,1000.0,BILL NO 608,s,Cash
+Expense,Adminstration,Fuel,Kalash Oil Srores,Prtrol,6.21,Ltr,0.0,1100.0,BILL NO 15972,s,Cash
+Expense,Adminstration,Water,Gorkha Mineral Water Udhyog,Water Jar,6,Jar,360.0,0.0,BILL NO 3336,s,Creditor
+Expense,Adminstration,Salary,Manju Chaudhary,Adv Salary,0,Harry,0.0,2000.0,Poush,s,Cash
+Expense,Kitchen,Food,Umar Faruk Fresh House,Magur Fish,31.5,Kg,0.0,12285.0,BILL NO 497,s,Office Money
+Expense,Adminstration,Casual Payment,Sandesh Cheetri ,Casual Payment,3,Day,0.0,6050.0,Harry,s,Office Money
+Expense,Kitchen,Meat,Bhabana Stores,Chicken ,10,Kg,3700.0,0.0,BILL NO 1082,s,Creditor
+Income,Room,304,Rushant Nakarmi,Room,2,Day,0.0,2000.0,BILL NO 609,s,Fonepay
+Income,Resturant,Food,Rushant Nakarmi,Chicken Khana,1,Plate,0.0,400.0,BILL NO 609,s,Fonepay
+Income,Resturant,Food,Rushant Nakarmi,Vag Khana,1,Plate,0.0,300.0,BILL NO 609,s,Fonepay
+Income,Resturant,Food,Rushant Nakarmi,Plain Chapati,15,Piece,0.0,375.0,BILL NO 609,s,Fonepay
+Income,Resturant,Food,Rushant Nakarmi,Plain Butter Masala,1,Plate,0.0,350.0,BILL NO 609,s,Fonepay
+Income,Resturant,Food,Rushant Nakarmi,Plain Dal,1,Boul,0.0,120.0,BILL NO 609,s,Fonepay
+Income,Resturant,Food,Rushant Nakarmi,Dal Fried,1,Boul,0.0,150.0,BILL NO 609,s,Fonepay
+Income,Resturant,Food,Rushant Nakarmi,Chicken Chilly B/L,1,Plate,0.0,350.0,BILL NO 609,s,Fonepay
+Income,Resturant,Food,Rushant Nakarmi,Plain Curd,1,Boul,0.0,100.0,BILL NO 609,s,Fonepay
+Income,Resturant,Food,Rushant Nakarmi,Chicken Chowmein,1,Plate,0.0,250.0,BILL NO 609,s,Fonepay
+Income,Resturant,Food,Outguest,Chicken Khana,1,Plate,0.0,400.0,BILL NO 611,s,Cash
+Income,Resturant,Food,Outguest,Mutton Khana,1,Plate,0.0,450.0,BILL NO 611,s,Cash
+Expense,Adminstration,Misc,Local Market,Hand Shower Pipe,2,Piece,0.0,1000.0,Harry,r,Cash
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cucumber,1,Kg,80.0,0.0,BILL NO 1684,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Beans,1,Kg,120.0,0.0,BILL NO 1684,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Capsicum,1,Kg,120.0,0.0,BILL NO 1684,r,Creditor
+Income,Adminstration,VAT,Rushant Nakarmi,VAT,0,Harry,2340.0,0.0,Invoice No 244,r,Debtor
+Income,Room,205,Subash Koirala,Room,1,Day,0.0,1800.0,BILL NO 613,s,Fonepay
+Income,Room,206,Subash Koirala,Room,1,Day,0.0,1000.0,BILL NO 613,s,Fonepay
+Income,Room,304,Subash Koirala,Room,1,Day,0.0,1800.0,BILL NO 613,s,Fonepay
+Income,Room,305,Subash Koirala,Room,1,Day,0.0,1800.0,BILL NO 613,s,Fonepay
+Income,Resturant,Food,Subash Koirala,Milk Coffee,1,Cup,0.0,100.0,BILL NO 614,s,Fonepay
+Income,Resturant,Food,Subash Koirala,Peanuts Sadheko,2,Plate,0.0,300.0,BILL NO 614,s,Fonepay
+Income,Resturant,Food,Subash Koirala,Bhatmas Sadheko,1,Plate,0.0,170.0,BILL NO 614,s,Fonepay
+Income,Resturant,Food,Subash Koirala,Chicken Nugget,1,Plate,0.0,350.0,BILL NO 614,s,Fonepay
+Income,Resturant,Food,Subash Koirala,Mushroom Fry,1,Plate,0.0,300.0,BILL NO 614,s,Fonepay
+Income,Resturant,Food,Subash Koirala,Green Salad,1,Plate,0.0,175.0,BILL NO 614,s,Fonepay
+Income,Resturant,Food,Subash Koirala,Dry Papad,4,Piece,0.0,80.0,BILL NO 614,s,Fonepay
+Income,Resturant,Food,Subash Koirala,Chicken Sadheko,2,Plate,0.0,300.0,BILL NO 614,s,Fonepay
+Income,Resturant,Food,Subash Koirala,Chicken Timbur,1,Plate,0.0,300.0,BILL NO 614,s,Fonepay
+Income,Resturant,Bar,Subash Koirala,Mineral Water,2,Bottle,0.0,60.0,BILL NO 614,s,Fonepay
+Income,Resturant,Food,Subash Koirala,Chicken Khana,3,Plate,0.0,1200.0,BILL NO 614,s,Fonepay
+Income,Resturant,Food,Subash Koirala,Veg Khana,2,Plate,0.0,600.0,BILL NO 614,s,Fonepay
+Income,Resturant,Food,Subash Koirala,Aalu Sadheko,1,Plate,0.0,200.0,BILL NO 614,s,Fonepay
+Income,Adminstration,VAT,Subash Koirala,VAT,0,Harry,0.0,1144.0,Invoice No 247,s,Fonepay
+Income,Adminstration,VAT,Subash Koirala,VAT,0,Harry,0.0,755.0,Invoice No 248 ,s,Fonepay
+Expense,Kitchen,Food,Bhabana Stores,Chicken Keema,3,Kg,1500.0,0.0,BILL NO 1083,s,Creditor
+Income,Room,307,Dipendra Chaudhary,Room,1,Day,0.0,1200.0,BILL NO 615,s,Fonepay
+Income,Resturant,Food,Dipendra Chaudhary,Chicken Khana,1,Plate,0.0,400.0,BILL NO 6915,s,Fonepay
+Income,Adminstration,VAT,Dipendra Chaudhary,VAT,0,Harry,0.0,260.0,Invoice No 249,s,Fonepay
+Income,Room,107,Manoj Basnet,Room,2,Day,2400.0,0.0,BILL NO 616,s,Debtor
+Income,Resturant,Food,Manoj Basnet,Chicken Khana,13,Plate,5200.0,0.0,BILL NO 616,s,Debtor
+Income,Resturant,Food,Manoj Basnet,Black Tea,4,Cup,120.0,0.0,BILL NO 616,s,Debtor
+Income,Resturant,Bar,Manoj Basnet,Mineral Water,1,Bottle,30.0,0.0,BILL NO 616,s,Debtor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,5,Packet,300.0,0.0,BILL NO 738,s,Creditor
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Peanuts,1,Packet,0.0,160.0,BILL NO 102,s,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Noodles,2,Packet,0.0,30.0,BILL NO 103,s,Cash
+Income,Resturant,Food,Ishwor Maskey Sir,Chicken Jhol Momo,Half,Plate,150.0,0.0,BILL NO 617,s,Debtor
+Expense,Adminstration,Salary,Bhim Uperkoti,Adv Salary,0,Harry,0.0,750.0,Poush,s,Office Money
+Expense,Kitchen,Food,Binod Kirana Pasal,French Fries,2.5,Kg,0.0,1000.0,BILL NO 481,s,Cash
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cauliflower,2,Kg,120.0,0.0,BILL NO 1685,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cucumber,2,Kg,160.0,0.0,BILL  NO 1685,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Garlic,1,Kg,350.0,0.0,BILL NO 1686,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Lemon,500,Gm,150.0,0.0,BILL  NO 1686,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Potato,10,Kg,600.0,0.0,BILL NO 1687,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Radish,2,Kg,120.0,0.0,BILL  NO 1687,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,3,Kg,150.0,0.0,BILL NO 1688,s,Creditor
+Income,Room,301,Puskar Gurung,Room,1,Day,1500.0,0.0,BILL NO 620,r,Debtor
+Income,Resturant,Food,Puskar Gurung,Chicken Momo,1,Plate,225.0,0.0,BILL NO 620,r,Debtor
+Income,Resturant,Food,Puskar Gurung,Chicken Sausage,1,Plate,200.0,0.0,BILL NO 620,r,Debtor
+Income,Room,106,Arjun Shrestha,Room,3,Day,0.0,3000.0,BILL NO 618,r,Cash
+Income,Resturant,Food,Arjun Shrestha,Mutton Khana,1,Plate,0.0,450.0,BILL NO 618,r,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Bread,3,Packet,180.0,0.0,BILL NO 739,r,Creditor
+Expense,Kitchen,Food,Kausal Kirana Pasal,Coke,2,Bottle,0.0,160.0,BILL NO 360,r,Cash
+Expense,Adminstration,Salary,Bhim Uperkoti,Salary,0,Harry,0.0,10000.0,Poush,r,Office Money
+Expense,Kitchen,Vegetables,Sarita Sirmal,Saag,4,Mhuta,0.0,120.0,Harry,r,Cash
+Expense,Adminstration,Salary,Sangita Roka,Salary,0,Harry,0.0,10000.0,Poush,r,Office Money
+Income,Adminstration,Credit Collection,Puskar Gurung,Past Credit Collection,0,Harry,0.0,10000.0,Harry,r,Fonepay
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Peanuts,2,Packet,0.0,320.0,BILL NO 104,s,Cash
+Expense,Kitchen,Food,Local Market,Cheese,1,Kg,0.0,1400.0,Harry,s,Cash
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Mushroom,500,Gm,150.0,0.0,BILL NO 1686,s,Creditor
+Expense,Adminstration,Salary,Kumar Shurketi,Salary,0,Harry,0.0,12000.0,Poush,s,Office Money
+Income,Adminstration,Credit Collection,Kumar Shurketi,Past Credit Collection,0,Harry,0.0,450.0,Harry,s,Cash
+Income,Resturant,Food,Outguest,Paneer Cheese Momo,1,Plate,0.0,250.0,BILL NO 619,s,Cash
+Income,Resturant,Food,Gaurav Maskey,Paneer Cheese Momo,2,Plate,500.0,0.0,BILL NO 621,s,Debtor
+Income,Room,106,Dhurba Raj Parajuli,Room,1,Day,0.0,1000.0,BILL NO 622,s,Cash
+Income,Resturant,Food,Dhurba Raj Parajuli,Plain Rice,1,Plate,0.0,120.0,BILL NO 622,s,Cash
+Income,Resturant,Food,Dhurba Raj Parajuli,Paneer Curry,1,Plate,0.0,150.0,BILL NO 622,s,Cash
+Income,Resturant,Food,Dhurba Raj Parajuli,Mushroom Fry,2,Plate,0.0,430.0,BILL NO 622,s,Cash
+Income,Resturant,Food,Dhurba Raj Parajuli,French Fries,1,Plate,0.0,175.0,BILL NO 622,s,Cash
+Income,Resturant,Bar,Dhurba Raj Parajuli,8848 Vodka,90,Ml,0.0,450.0,BILL NO 622,s,Cash
+Income,Adminstration,Discount,Dhurba Raj Parajuli,Discount,0,Harry,0.0,-25.0,BILL NO 622,s,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,5,Packet,300.0,0.0,BILL NO 740,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Bread,2,Packet,120.0,0.0,BILL NO 740,s,Creditor
+Income,Room,202,Manish Pokharel,Room,1,Day,0.0,1500.0,BILL NO 6215,s,Cash
+Income,Room,201,David Michael,Room,3,Day,0.0,7500.0,BILL NO 623,s,Cash
+Income,Resturant,Food,David Michael,Miracle Veg Platter,2,Set,0.0,1800.0,BILL NO 623,s,Cash
+Income,Resturant,Bar,David Michael,Gorkha Strong Beer,2,Bottle,0.0,1000.0,BILL NO 623,s,Cash
+Income,Resturant,Bar,David Michael,Mix Real Juice,2,Glass,0.0,300.0,BILL NO 623,s,Cash
+Income,Resturant,Bar,David Michael,Cold Drinks,4,Glass,0.0,280.0,BILL NO 623,s,Cash
+Income,Resturant,Bar,David Michael,Tuborg Beer,3,Bottle,0.0,1500.0,BILL NO 623,s,Cash
+Income,Resturant,Food,David Michael,Black Coffee,2,Cup,0.0,100.0,BILL NO 623,s,Cash
+Income,Resturant,Food,David Michael,Chicken Sandwich,1,Plate,0.0,250.0,BILL NO 623,s,Cash
+Income,Resturant,Bar,David Michael,Mineral Water,6,Bottle,0.0,180.0,BILL NO 623,s,Cash
+Income,Resturant,Food,David Michael,Miracle Chicken Roll,1,Plate,0.0,500.0,BILL NO 623,s,Cash
+Income,Resturant,Food,David Michael,Peanuts Sadheko,2,Plate,0.0,300.0,BILL NO 623,s,Cash
+Income,Resturant,Food,David Michael,Chicken Fry Wings,1,Plate,0.0,350.0,BILL NO 623,s,Cash
+Income,Resturant,Food,David Michael,Aalu Sadheko,3,Plate,0.0,450.0,BILL NO 623,s,Cash
+Income,Resturant,Food,David Michael,Veg Khaja Set,1,Set,0.0,300.0,BILL NO 623,s,Cash
+Income,Adminstration,Service Charge,David Michael,Service Charge,0,Harry,0.0,730.0,BILL NO 623,s,Cash
+Income,Resturant,Food,David Michael,Chicken Spring Roll,1,Plate,0.0,300.0,BILL NO 624,s,Cash
+Income,Resturant,Food,David Michael,Fish Finger,1,Plate,0.0,350.0,BILL NO 624,s,Cash
+Income,Resturant,Food,David Michael,Hot Lemon W.H,1,Glass,0.0,180.0,BILL NO 624,s,Cash
+Income,Resturant,Food,David Michael,Indian Style Breakfast,2,Set,0.0,800.0,BILL NO 624,s,Cash
+Income,Resturant,Food,David Michael,English Style Breakfast,2,Set,0.0,800.0,BILL NO 624,s,Cash
+Income,Adminstration,Service Charge,David Michael,Service Charge,0,Harry,0.0,245.0,BILL NO 624,s,Cash
+Expense,Adminstration,Water,Gorkha Mineral Water Udhyog,Water Jar,5,Jar,300.0,0.0,BILL NO 3341,s,Creditor
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Maida,3,Kg,0.0,285.0,BILL NO 105,s,Cash
+Expense,Adminstration,Misc,Grishma Interprises,Big Contenar,1,Packet,0.0,700.0,BILL NO 128,s,Cash
+Expense,Adminstration,Misc,Grishma Interprises,Small Contenar,1,Packet,0.0,450.0,BILL NO 128,s,Cash
+Expense,Adminstration,Misc,Gorkhali Plastic Pasal,Odonil,50,Piece,4000.0,0.0,BILL NO 800,s,Creditor
+Expense,Kitchen,Vegetables,Sarita Sirmal,Corrainder,1,Kg,0.0,200.0,Harry,s,Cash
+Expense,Adminstration,Credit Payment,Gorkhali Plastic Pasal,Past Credit Payment,0,Harry,0.0,21000.0,Kartik&Poush,s,Cash
+Expense,Resturant,Misc,Gorkhali Plastic Pasal,Pop Up Napkin,1,Pack,2880.0,0.0,BILL NO 603,r,Creditor
+Expense,Resturant,Misc,Gorkhali Plastic Pasal,Toothpick,2,Packet,260.0,0.0,BILL NO 603,r,Creditor
+Expense,Resturant,Misc,Gorkhali Plastic Pasal,Plastic Spoon,10,Packet,1000.0,0.0,BILL NO 603,r,Creditor
+Expense,Resturant,Misc,Gorkhali Plastic Pasal,Napkin,50,Packet,1000.0,0.0,BILL NO 603,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Aajino Moto,500,Gram,250.0,0.0,BILL NO 29,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Cornflour,5,Packet,750.0,0.0,BILL NO 29,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Mass Dal,3,Kg,450.0,0.0,BILL NO 29,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Musur Dal,3,Kg,450.0,0.0,BILL NO 29,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Rohar Dal,3,Kg,600.0,0.0,BILL NO 29,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Maida,5,Packet,500.0,0.0,BILL NO 29,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Sugar,5,Kg,475.0,0.0,BILL NO 29,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Sunflower Oil,1,Case,2500.0,0.0,BILL NO 29,r,Creditor
+Expense,Resturant,Misc,Joshi Quality Kirana pasal,Napkin,1,Bora,1600.0,0.0,BILL NO 30,r,Creditor
+Expense,Resturant,Misc,Joshi Quality Kirana pasal,Plastic Glass,10,Bundle,1000.0,0.0,BILL NO 30,r,Creditor
+Expense,Resturant,Misc,Joshi Quality Kirana pasal,Plastic Fork,3,Packet,300.0,0.0,BILL NO 30,r,Creditor
+Expense,Adminstration,Credit Payment,Joshi Quality Kirana pasal,Past Credit Payment,0,Harry,0.0,198000.0,Cheque,r,Office Money
+Expense,Adminstration,Salary,Manju Chaudhary,Salary,0,Harry,0.0,8000.0,Poush,r,Office Money
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Noodles,2,Packet,0.0,40.0,BILL NO 106,r,Cash
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Carrot,1,Kg,90.0,0.0,BILL NO 1687,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Beans,1,Kg,120.0,0.0,BILL NO 1687,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Capsicum,1,Kg,120.0,0.0,BILL NO 1687,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cauliflower,2,Kg,120.0,0.0,BILL NO 1687,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Garlic,1,Kg,350.0,0.0,BILL NO 1687,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,3,Kg,150.0,0.0,BILL NO 1687,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Orange,1,Kg,200.0,0.0,BILL NO 1687,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Apple,1,Kg,250.0,0.0,BILL NO 1687,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Banana,1,Darzan,140.0,0.0,BILL NO 1687,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Mushroom,600,Gram,150.0,0.0,BILL NO 1687,r,Creditor
+Expense,Kitchen,Meat,Bhabana Stores,Chicken,10,Kg,3700.0,0.0,BILL NO 1084,r,Creditor
+Expense,Resturant,Bar,Gorkha Mini Mart,Apple Cider,5,Bottle,0.0,950.0,BILL NO 07365,r,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk ,5,Packet,300.0,0.0,BILL NO 741,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Paneer,1,Kg,840.0,0.0,BILL NO 741,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Curd,5,Packet,375.0,0.0,BILL NO 741,s,Creditor
+Income,Room,107,Puma Gurung,Room,1,Day,0.0,1000.0,BILL NO 630,s,Cash
+Income,Resturant,Food,Puma Gurung,Milk Coffee,2,Cup,0.0,200.0,BILL NO 630,s,Cash
+Income,Room,201,Kim Weontae,Room,1,Day,0.0,2500.0,BILL NO 628,s,Cash
+Income,Room,206,Kim Weontae,Room,1,Day,0.0,1000.0,BILL NO 628,s,Cash
+Income,Resturant,Bar,Kim Weontae,Cold Drinks,1,Glass,0.0,100.0,BILL NO 628,s,Cash
+Income,Room,307,Bishnu Dev Bhandari,Room,1,Day,0.0,1000.0,BILL NO 631,s,Cash
+Income,Resturant,Food,Bishnu Dev Bhandari,Plain Chapati,3,Piece,0.0,75.0,BILL NO 631,s,Cash
+Income,Resturant,Food,Bishnu Dev Bhandari,Muttoe Paneer Curry,1,Plate,0.0,250.0,BILL NO 631,s,Cash
+Income,Resturant,Food,Bishnu Dev Bhandari,Veg Soup,1,Boul,0.0,150.0,BILL NO 631,s,Cash
+Income,Resturant,Food,Bishnu Dev Bhandari,Milk Tea,1,Cup,0.0,65.0,BILL NO 631,s,Cash
+Income,Resturant,Food,Bishnu Dev Bhandari,Milk Coffee,1,Cup,0.0,100.0,BILL NO 631,s,Cash
+Income,Adminstration,Discount,Bishnu Dev Bhandari,Discount,0,Harry,0.0,-40.0,BILL NO 631,s,Cash
+Income,Resturant,Food,Sheetal Maskey Sir,Chicken Jhol Momo,1,Plate,300.0,0.0,BILL NO 627,s,Debtor
+Income,Room,205,DMC (Madan Kadel),Room,1,Day,1800.0,0.0,BILL NO 629,s,Debtor
+Income,Resturant,Food,DMC (Madan Kadel),Chicken Fried Rice,1,Plate,250.0,0.0,BILL NO 629,s,Debtor
+Income,Resturant,Food,DMC (Madan Kadel),Plain Curd,1,Boul,100.0,0.0,BILL NO 629,s,Debtor
+Income,Adminstration,Service Charge,Arun Thapa,Laundry Charge,0,Harry,0.0,100.0,Harry,s,Cash
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Detergent Powder,2,Packet,0.0,480.0,BILL NO 107,s,Cash
+Expense,Adminstration,Lawyer,Ujjal Kanta Mainali,Corporate Lawyer Fee,0,Harry,0.0,2000.0,Harry,s,Cash
+Income,Resturant,Food,Gaurav Maskey,Chicken Fry Rice,1,Plate,200.0,0.0,BILL NO 633,s,Debtor
+Income,Resturant,Food,Gaurav Maskey,Timur Chicken ,1,Plate,350.0,0.0,BILL NO 633,s,Debtor
+Income,Resturant,Food,Gaurav Maskey,Mix Fry Rice,1,Plate,275.0,0.0,BILL NO 633,s,Debtor
+Income,Resturant,Food,Gaurav Maskey,Mix Real Juice,1,Full,500.0,0.0,BILL NO 633,s,Debtor
+Income,Adminstration,Discount,Gaurav Maskey,Discount,0,Harry,-330.0,0.0,BILL NO 633,s,Debtor
+Income,Room,301,Eye Hospital,Room,2,Day,4000.0,0.0,BILL NO 632,s,Debtor
+Income,Room,302,Eye Hospital,Room,2,Day,3600.0,0.0,BILL NO 632,s,Debtor
+Income,Resturant,Food,Eye Hospital,Veg Khana,7,Plate,2100.0,0.0,BILL NO 632,s,Debtor
+Income,Resturant,Food,Eye Hospital,Chicken Khana,16,Plate,6400.0,0.0,BILL NO 632,s,Debtor
+Income,Resturant,Food,Eye Hospital,Chicken Fried Rice,6,Plate,1200.0,0.0,BILL NO 632,s,Debtor
+Income,Resturant,Food,Eye Hospital,Chicken Chilly B/L,2,Plate,700.0,0.0,BILL NO 632,s,Debtor
+Income,Resturant,Food,Eye Hospital,French Fries,2,Plate,400.0,0.0,BILL NO 632,s,Debtor
+Income,Resturant,Food,Eye Hospital,Chicken Fry,1,Plate,400.0,0.0,BILL NO 632,s,Debtor
+Income,Resturant,Food,Eye Hospital,Peanuts Sadheko,2,Plate,300.0,0.0,BILL NO 632,s,Debtor
+Income,Resturant,Food,Eye Hospital,Green Salad,2,Plate,300.0,0.0,BILL NO 632,s,Debtor
+Income,Resturant,Food,Eye Hospital,English Style Breakfast,6,Set,2400.0,0.0,BILL NO 632,s,Debtor
+Income,Resturant,Bar,Eye Hospital,Mix Real Juice,1,Full,500.0,0.0,BILL NO 632,s,Debtor
+Income,Resturant,Bar,Eye Hospital,Coke,3,Full,1200.0,0.0,BILL NO 632,s,Debtor
+Income,Resturant,Bar,Eye Hospital,Cold Drinks,1,Glass,70.0,0.0,BILL NO 632,s,Debtor
+Income,Room,306,Ujjal Kanta Mainali,Room,1,Day,1000.0,0.0,BILL NO 635,s,Debtor
+Income,Resturant,Food,Ujjal Kanta Mainali,Plain Chapati,2,Piece,50.0,0.0,BILL NO 635,s,Debtor
+Income,Resturant,Food,Ujjal Kanta Mainali,Mix Veg Curry,1,Plate,200.0,0.0,BILL NO 635,s,Debtor
+Income,Resturant,Food,Ujjal Kanta Mainali,Chicken Khana,1,Plate,400.0,0.0,BILL NO 635,s,Debtor
+Income,Resturant,Food,Ujjal Kanta Mainali,Hot Milk,1,Glass,100.0,0.0,BILL NO 635,s,Debtor
+Income,Resturant,Food,Ujjal Kanta Mainali,Boil Egg,2,Piece,100.0,0.0,BILL NO 635,s,Debtor
+Income,Resturant,Food,Ujjal Kanta Mainali,Black Coffee,2,Cup,100.0,0.0,BILL NO 635,s,Debtor
+Income,Resturant,Food,Ujjal Kanta Mainali,Plain Toast,2,Piece,120.0,0.0,BILL NO 635,s,Debtor
+Income,Resturant,Food,Ujjal Kanta Mainali,Toast Omlate,1,Set,150.0,0.0,BILL NO 635,s,Debtor
+Income,Resturant,Food,Ujjal Kanta Mainali,Milk Coffee,1,Cup,100.0,0.0,BILL NO 635,s,Debtor
+Income,Resturant,Food,Ujjal Kanta Mainali,Black Tea,1,Cup,40.0,0.0,BILL NO 635,s,Debtor
+Expense,Adminstration,Water,Sanjibani Water Suppliers,Mineral Water,15,Case,0.0,2550.0,Harry,s,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Bhuja,1,Packet,0.0,30.0,BILL NO 109,s,Cash
+Income,Room,204,Sanjeet Shrestha,Room,1,Day,0.0,1800.0,BILL NO 634,s,Cash
+Income,Resturant,Food,Sanjeet Shrestha,Chicken Khana,1,Plate,0.0,400.0,BILL NO 634,s,Cash
+Income,Resturant,Food,Sanjeet Shrestha,Veg Khana,1,Plate,0.0,300.0,BILL NO 634,s,Cash
+Income,Resturant,Food,Office (Meeting),Mix Veg Boiled,1,Plate,200.0,0.0,BILL NO 636,r,Creditor
+Income,Resturant,Food,Office (Meeting),Chicken Chilly B/L,1,Plate,350.0,0.0,BILL NO 636,r,Creditor
+Income,Resturant,Food,Office (Meeting),Timur Chicken ,1,Plate,350.0,0.0,BILL NO 636,r,Creditor
+Income,Resturant,Food,Office (Meeting),Fish Finger,1,Plate,350.0,0.0,BILL NO 636,r,Creditor
+Income,Resturant,Food,Office (Meeting),Chicken Jhol Momo,1,Plate,300.0,0.0,BILL NO 636,r,Creditor
+Income,Resturant,Bar,Office (Meeting),Double Black Label,1,Half,5900.0,0.0,BILL NO 636,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Carrot,3,Kg,270.0,0.0,BILL NO 1688,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Beans,2,Kg,240.0,0.0,BILL NO 1688,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Green Chilly,500,Gram,60.0,0.0,BILL NO 1688,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cucumber,1,Kg,80.0,0.0,BILL NO 1688,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Potato,10,Kg,600.0,0.0,BILL NO 1688,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Radish,1,Kg,50.0,0.0,BILL NO 1688,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,3,Kg,180.0,0.0,BILL NO 1688,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Lemon,500,Gram,150.0,0.0,BILL NO 1688,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Beans,4,Kg,480.0,0.0,BILL NO 1689,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Capsicum,1,Kg,130.0,0.0,BILL NO 1689,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Carrot,10,Kg,900.0,0.0,BILL NO 1689,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Green Chilly,1,Kg,120.0,0.0,BILL NO 1689,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cucumber,5,Kg,400.0,0.0,BILL NO 1689,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Garlic,1,Kg,350.0,0.0,BILL NO 1689,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Lemon,500,Gram,150.0,0.0,BILL NO 1689,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Onion,10,Kg,700.0,0.0,BILL NO 1689,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Potato,10,Kg,600.0,0.0,BILL NO 1689,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Radish,5,Kg,250.0,0.0,BILL NO 1689,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,8,Kg,480.0,0.0,BILL NO 1689,r,Creditor
+Expense,Kitchen,Vegetables,Kumar Shurketi,Cauliflower,5.5,Kg,0.0,330.0,Harry,r,Cash
+Expense,Kitchen,Vegetables,Kumar Shurketi,Ginger,4.5,Kg,0.0,540.0,Harry,r,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Sano Kerau,1,Kg,0.0,165.0,BILL NO 110,r,Cash
+Expense,Kitchen,Meat,Bhabana Stores,Chicken,20,Kg,7400.0,0.0,BILL NO 1085,r,Creditor
+Income,Resturant,Food,Outguest,Mutton Khana,1,Plate,0.0,450.0,BILL NO 637,r,Cash
+Income,Resturant,Bar,Outguest,Cold Drinks,1,Glass,0.0,70.0,BILL NO 637,r,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Salt,10,Packet,0.0,200.0,BILL NO 111,s,Cash
+Expense,Kitchen,Food,Local Market,Green Peas,3,Kg,0.0,960.0,BILL NO 65,s,Cash
+Income,Room,106,Anas Gurung,Room,1,Day,0.0,1000.0,BILL NO 639,s,Cash
+Income,Resturant,Food,Anas Gurung,Chicken Khana,1,Plate,0.0,400.0,BILL NO 639,s,Cash
+Income,Resturant,Food,Anas Gurung,Black Coffee,2,Cup,0.0,100.0,BILL NO 639,s,Cash
+Income,Room,207,DMC (Ganesh Khanal),Room,5,Day,5000.0,0.0,BILL NO 640,s,Debtor
+Income,Resturant,Food,DMC (Ganesh Khanal),Chicken Khana,6,Plate,2400.0,0.0,BILL NO 640,s,Debtor
+Income,Resturant,Food,DMC (Ganesh Khanal),Chicken Momo,2,Plate,450.0,0.0,BILL NO 640,s,Debtor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk ,20,Packet,1200.0,0.0,BILL NO 742,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Paneer,3,Kg,2520.0,0.0,BILL NO 742,s,Creditor
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Food Clour,2,Piece,0.0,140.0,BILL NO 112,s,Cash
+Expense,Adminstration,Misc,Salima Interprises,Ballons,4,Packet,0.0,660.0,BILL NO 97,s,Cash
+Expense,Adminstration,Misc,Local Market,Double Tape,1,Roll,0.0,100.0,Harry,s,Cash
+Expense,Kitchen,Meat,Salim Quality Meat Shop,Mutton,20,Kg,22000.0,0.0,BILL NO 857,s,Creditor
+Income,Room,204,Surakshya Itani,Room,1,Day,0.0,2000.0,BILL NO 641,s,Cash
+Income,Resturant,Food,Surakshya Itani,Chicken Khana,1,Plate,0.0,400.0,BILL NO 641,s,Cash
+Income,Room,201,Nabaraj Koirala,Room,1,Day,0.0,1500.0,BILL NO 642,s,Cash
+Income,Resturant,Food,Outguest,Veg Khana,3,Plate,0.0,900.0,BILL NO 643,s,Cash
+Income,Resturant,Food,Outguest,Mutton Khana,2,Plate,0.0,900.0,BILL NO 643,s,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Kismis,2,Packet,0.0,200.0,BILL NO 351,s,Cash
+Expense,Adminstration,Salary,Gaurav Maskey,Adv Salary,0,Harry,0.0,1000.0,Magh,s,Cash
+Expense,Kitchen,Meat,Bhabana Stores,Chicken,5,Kg,1850.0,0.0,BILL NO 1086,r,Creditor
+Income,Adminstration,Credit Collection,Nabaraj Koirala,Past Credit Collection,0,Harry,0.0,1685.0,Harry,s,Fonepay
+Expense,Adminstration,Repair and Maintainance,Local Market,Small Lamp,12,Piece,0.0,5400.0,Harry,r,Office Money
+Expense,Adminstration,Repair and Maintainance,Local Market,Flame Bulb,14,Piece,0.0,6650.0,Harry,r,Office Money
+Expense,Adminstration,Repair and Maintainance,Local Market,Big Lamp,2,Piece,0.0,1000.0,Harry,r,Office Money
+Income,Room,307,Amit Maskey,Room,1,Day,0.0,1000.0,BILL NO 644,r,Fonepay
+Income,Resturant,Food,Amit Maskey,Mutton Khana,2,Plate,0.0,900.0,BILL NO 644,r,Fonepay
+Income,Resturant,Food,Amit Maskey,Veg Khana,2,Plate,0.0,600.0,BILL NO 644,r,Fonepay
+Income,Resturant,Food,Amit Maskey,English Style Breakfast,1,Set,0.0,400.0,BILL NO 644,r,Fonepay
+Income,Resturant,Food,Amit Maskey,Normal Breakfast,1,Set,0.0,300.0,BILL NO 644,r,Fonepay
+Expense,Kitchen,Meat,Bhabana Stores,Chicken,5,Kg,1850.0,0.0,BILL NO 1087,r,Creditor
+Expense,Adminstration,Repair and Maintainance,Aakriti Metal Udhyog ,Tables (3x3) Feet,625,Piece,0.0,18750.0,BILL NO 82,r,Office Money
+Expense,Adminstration,Repair and Maintainance,Aakriti Metal Udhyog ,Tables (7x2) Feet,180,Piece,0.0,5400.0,BILL NO 82,r,Office Money
+Expense,Adminstration,Repair and Maintainance,Aakriti Metal Udhyog ,Tables (1.5x2) Feet,65,Piece,0.0,1950.0,BILL NO 82,r,Office Money
+Expense,Adminstration,Repair and Maintainance,Aakriti Metal Udhyog ,Patti,40,Kg,0.0,6600.0,BILL NO 82,r,Office Money
+Expense,Adminstration,Repair and Maintainance,Aakriti Metal Udhyog ,Not/Bolt/Chains,0,Harry,0.0,4500.0,BILL NO 82,r,Office Money
+Expense,Adminstration,Repair and Maintainance,Aakriti Metal Udhyog ,Dish Home Fitting,0,Harry,0.0,500.0,BILL NO 82,r,Office Money
+Expense,Adminstration,Repair and Maintainance,Aakriti Metal Udhyog ,Pipe,115,Feet,0.0,3450.0,BILL NO 82,r,Office Money
+Expense,Kitchen,Vegetables,Sarita Sirmal,Saag,9,Mhuta,0.0,270.0,Harry,r,Cash
+Expense,Kitchen,Vegetables,Sarita Sirmal,Corrainder,1,Kg,0.0,200.0,Harry,r,Cash
+Income,Resturant,Food,Sujan Shrestha,Khana Set,129,Plate,103200.0,0.0,BILL NO 646,r,Debtor
+Income,Resturant,Food,Gaurav Maskey,Chicken Fry,1,Plate,400.0,0.0,BILL NO 649,s,Debtor
+Income,Room,107,Bijay K Ray,Room,1,Day,0.0,1000.0,BILL NO 648,s,Fonepay
+Income,Resturant,Food,Bijay K Ray,Milk Tea,3,Cup,0.0,195.0,BILL NO 648,s,Fonepay
+Income,Resturant,Food,Bijay K Ray,Plain Chapati,14,Piece,0.0,350.0,BILL NO 648,s,Fonepay
+Income,Resturant,Food,Bijay K Ray,Plain Curd,1,Boul,0.0,100.0,BILL NO 648,s,Fonepay
+Income,Resturant,Food,Bijay K Ray,Green Salad,1,Plate,0.0,150.0,BILL NO 648,s,Fonepay
+Income,Resturant,Food,Bijay K Ray,Mutton Khana,1,Plate,0.0,450.0,BILL NO 648,s,Fonepay
+Income,Resturant,Food,Bijay K Ray,Chicken Curry,1,Plate,0.0,300.0,BILL NO 648,s,Fonepay
+Income,Resturant,Food,Bijay K Ray,Dal Fried,1,Boul,0.0,100.0,BILL NO 648,s,Fonepay
+Income,Adminstration,VAT,Bijay K Ray,VAT,0,Harry,0.0,721.5,BILL NO 648,s,Fonepay
+Income,Adminstration,Discount,Bijay K Ray,Discount,0,Harry,0.0,-11.5,BILL NO 648,s,Fonepay
+Income,Resturant,Food,Outguest,Veg Khana,2,Plate,0.0,600.0,BILL NO 651,s,Cash
+Income,Room,204,Prakash Khadka,Room,1,Day,0.0,1500.0,BILL NO 654,s,Cash
+Income,Room,205,Prakash Khadka,Room,1,Day,0.0,1500.0,BILL NO 654,s,Cash
+Income,Room,304,Surakshya Itani,Room,1,Day,0.0,1500.0,BILL NO 655,s,Cash
+Income,Resturant,Food,Surakshya Itani,Veg Khana,1,Plate,0.0,300.0,BILL NO 655,s,Cash
+Income,Resturant,Food,Samrat Fancy Store,Chicken Kkhana,4,Plate,0.0,1600.0,BILL NO 653,s,Cash
+Income,Adminstration,Discount,Samrat Fancy Store,Discount,0,Harry,0.0,-100.0,BILL NO 653,s,Cash
+Income,Room,301,Puskar Gurung,Room,2,Day,4000.0,0.0,BILL NO 652,s,Debtor
+Income,Resturant,Food,Puskar Gurung,Mutton Khana,3,Plate,1350.0,0.0,BILL NO 652,s,Debtor
+Income,Resturant,Food,Puskar Gurung,Chicken Khana,1,Plate,400.0,0.0,BILL NO 652,s,Debtor
+Income,Resturant,Food,Puskar Gurung,Veg Khana,2,Plate,600.0,0.0,BILL NO 652,s,Debtor
+Income,Resturant,Food,Puskar Gurung,Plain Omlete,2,Piece,200.0,0.0,BILL NO 652,s,Debtor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk ,5,Packet,300.0,0.0,BILL NO 743,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Bread,2,Packet,100.0,0.0,BILL NO 743,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Bread,3,Packet,180.0,0.0,BILL NO 743,s,Creditor
+Expense,Adminstration,Fuel,Kalash Oil Srores,Petrol,5.65,Ltr,0.0,1000.0,BILL NO 16573,s,Cash
+Expense,Adminstration,Salary,Amrit Thapa,Salary,0,Harry,0.0,17000.0,Poush,r,Office Money
+Expense,Adminstration,Salary,Arun Chaudhary,Salary,0,Harry,0.0,10000.0,Poush,r,Office Money
+Expense,Adminstration,Salary,Bhim Uperkoti,Salary,0,Harry,0.0,19250.0,Poush,r,Office Money
+Expense,Adminstration,Salary,Gaurav Maskey,Salary,0,Harry,0.0,15000.0,Poush,r,Office Money
+Expense,Adminstration,Salary,Raju Khanal,Salary,0,Harry,0.0,10000.0,Poush,r,Office Money
+Expense,Adminstration,Salary,Rojan Shrestha,Salary,0,Harry,0.0,12000.0,Poush,r,Office Money
+Expense,Adminstration,Salary,Sarita Sirmal,Salary,0,Harry,0.0,4000.0,Poush,r,Office Money
+Expense,Adminstration,Salary,Sumitra Bhattarai,Salary,0,Harry,0.0,8000.0,Poush,r,Office Money
+Expense,Adminstration,Salary,Susmita Sirmal,Salary,0,Harry,0.0,14000.0,Poush,r,Office Money
+Expense,Adminstration,Salary,Upendra Khatri,Salary,0,Harry,0.0,10000.0,Poush,r,Office Money
+Expense,Adminstration,Credit Payment,Manakamana Icecream Stores,Past Credit Payment,0,Harry,0.0,30000.0,Poush,r,Office Money
+Expense,Adminstration,Credit Payment,Salim Quality Meat Shop,Past Credit Payment,0,Harry,0.0,134000.0,Poush,r,Office Money
+Expense,Adminstration,Credit Payment,Bajracharya Khaag Udhyog,Past Credit Payment,0,Harry,0.0,9000.0,Poush,r,Office Money
+Expense,Adminstration,Credit Payment,Guddu Veg Shop,Past Credit Payment,0,Harry,0.0,32000.0,Poush,r,Office Money
+Expense,Adminstration,Misc,Aryal Bijuli Pasal,Tape,2,Pieec,0.0,50.0,BILL NO 1890,r,Cash
+Income,Resturant,Food,Sheetal Maskey Sir,Chicken Jhol Momo,2,Plate,600.0,0.0,BILL NO 656,r,Debtor
+Income,Resturant,Food,Sheetal Maskey Sir,Fish Finger,2,Plate,700.0,0.0,BILL NO 656,r,Debtor
+Income,Resturant,Food,Sheetal Maskey Sir,Chicken Nugget,1,Plate,350.0,0.0,BILL NO 656,r,Debtor
+Income,Adminstration,Discount,Sheetal Maskey Sir,Discount,0,Harry,-410.0,0.0,BILL NO 656,r,Debtor
+Income,Room,207,Raj Bahadur Gurung,Room,1,Day,0.0,1200.0,BILL NO 657,r,Cash
+Income,Resturant,Food,Raj Bahadur Gurung,Egg Fried Rice,3,Plate,0.0,525.0,BILL NO 657,r,Cash
+Income,Adminstration,Service Charge,Raj Bahadur Gurung,Service Charge,0,Harry,0.0,50.0,BILL NO 657,r,Cash
+Income,Room,307,Maksim Svinar,Room,1,Day,0.0,1200.0,BILL NO 658,r,Cash
+Expense,Resturant,Water,Gorkha Mineral Water Udhyog,water Jar,7,Jar,420.0,0.0,BILL NO 3347,r,Creditor
+Expense,Adminstration,Misc,Local Market,Jhadu,3,Piece,0.0,240.0,Harry,r,Cash
+Expense,Kitchen,Vegetables,Local Market,Onion,2,Kg,0.0,130.0,Harry,r,Cash
+Income,Resturant,Food,Out Guest,Mutton Khana,2,Plate,0.0,900.0,BILL NO 659,r,Cash
+Income,Resturant,Food,Guddu Das,Chicken Momo,1,Plate,225.0,0.0,BILL NO 660,r,Debtor
+Expense,Adminstration,Misc,Bishow Medical Hall,Surgical Gloves,1,Packet,0.0,550.0,BILL NO 289,r,Cash
+Expense,Adminstration,Misc,Bishow Medical Hall,Surgical Mask,1,Packet,0.0,250.0,BILL NO 289,r,Cash
+Expense,Kitchen,Vegetables,Sarita Sirmal,Saag,4,Mhuta,0.0,120.0,Harry,r,Cash
+Income,Adminstration,Credit Collection,Sujan Shrestha,Credit Collection,0,Harry,0.0,100100.0,Harry,r,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Panner,1,Kg,840.0,0.0,BILL NO 744,r,Creditor
+Expense,Adminstration,Misc,Local Market,Lock,1,Piece,0.0,100.0,BILL NO 974,r,Cash
+Expense,Kitchen,Food,Shree Muna Kirana Stores,Peanuts,2,Packet,0.0,300.0,BILL NO 101,r,Cash
+Expense,Kitchen,Vegetables,Guddu Das,Apple,1,Kg,250.0,0.0,BILL NO 1690,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Das,Cabbage,2,Kg,100.0,0.0,BILL NO 1690,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Das,Banana,12,Piece,150.0,0.0,BILL NO 1690,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Das,Onion,10,Kg,600.0,0.0,BILL NO 1690,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Das,Lemon,500,Gram,140.0,0.0,BILL NO 1690,r,Creditor
+Income,Resturant,Bar,Ishwor Maskey Sir,Tuborg Beer,2,Bottle,1000.0,0.0,BILL NO 661,r,Debtor
+Income,Resturant,Bar,Ishwor Maskey Sir,Cold Drinks,3,Glass,210.0,0.0,BILL NO 661,r,Debtor
+Income,Resturant,Bar,Ishwor Maskey Sir,Black Label,1,Qtr,2150.0,0.0,BILL NO 661,r,Debtor
+Income,Resturant,Food,Ishwor Maskey Sir,Panir Chilly,3,Plate,750.0,0.0,BILL NO 661,r,Debtor
+Income,Resturant,Food,Ishwor Maskey Sir,Potato Nugget,2,Plate,400.0,0.0,BILL NO 661,r,Debtor
+Income,Resturant,Food,Ishwor Maskey Sir,Harabara Kabab,2,Plate,400.0,0.0,BILL NO 661,r,Debtor
+Income,Resturant,Food,Ishwor Maskey Sir,Corn & Peper,2,Plate,450.0,0.0,BILL NO 661,r,Debtor
+Income,Resturant,Food,Ishwor Maskey Sir,Veg Tempura,2,Plate,330.0,0.0,BILL NO 661,r,Debtor
+Income,Resturant,Food,Ishwor Maskey Sir,Mushroom Soup,1,Plate,150.0,0.0,BILL NO 661,r,Debtor
+Income,Resturant,Food,Ishwor Maskey Sir,Chicken Momo,1,Plate,225.0,0.0,BILL NO 661,r,Debtor
+Income,Resturant,Food,Ishwor Maskey Sir,Chicken Fried Rice,1,Plate,200.0,0.0,BILL NO 661,r,Debtor
+Income,Resturant,Food,Ishwor Maskey Sir,Plain Chapati,6,Piece,150.0,0.0,BILL NO 661,r,Debtor
+Income,Resturant,Food,Ishwor Maskey Sir,Mix Veg Curry,1,Plate,175.0,0.0,BILL NO 661,r,Debtor
+Income,Adminstration,Discount,Ishwor Maskey Sir,Discount,0,Harry,-1645.0,0.0,BILL NO 661,r,Debtor
+Income,Room,204,Ajaya Gurung,Room,1,Day,0.0,2000.0,BILL NO 662,r,Cash
+Income,Resturant,Food,Ajaya Gurung,Chicken Momo,1,Plate,0.0,225.0,BILL NO 662,r,Cash
+Income,Resturant,Food,Ajaya Gurung,Chicken Chowmein,1,Plate,0.0,250.0,BILL NO 662,r,Cash
+Income,Adminstration,Discount,Ajaya Gurung,Discount,0,Harry,0.0,-5.0,BILL NO 662,r,Cash
+Expense,Adminstration,Salary,Sonu Nepali,Clearness Salary,0,Harry,0.0,10000.0,Magh,r,Office Money
+Expense,Adminstration,Misc,Local Market,3 Pin ,2,Piece,0.0,200.0,BILL NO 88,r,Cash
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Mushroom,1,Kg,280.0,0.0,BILL NO 1691,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Potato,10,Kg,600.0,0.0,BILL NO 1691,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,2,Kg,100.0,0.0,BILL NO 1691,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Onion,10,Kg,700.0,0.0,BILL NO 1691,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Ajino Moto,1,Packet,250.0,0.0,BILL NO 31,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Kaju,2,Packet,1800.0,0.0,BILL NO 31,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Cornflour,5,Packet,750.0,0.0,BILL NO 31,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Corrainder Powder,1,Packet,400.0,0.0,BILL NO 31,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Cumin Powder,1,Kg,800.0,0.0,BILL NO 31,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Methi,2,Packet,50.0,0.0,BILL NO 31,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Clove,2,Packet,200.0,0.0,BILL NO 31,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Green Cardamon,2,Packet,400.0,0.0,BILL NO 31,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Jaifal,15,Piece,225.0,0.0,BILL NO 31,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Maida,15,Packet,1500.0,0.0,BILL NO 31,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Meat Masala,5,Packet,275.0,0.0,BILL NO 31,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Sajan Mustard Oil,5,Ltr,1300.0,0.0,BILL NO 31,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Ghee,7,Bottle,4200.0,0.0,BILL NO 31,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Rajma,8,Kg,1280.0,0.0,BILL NO 31,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Rogani Mirch,1,Bandel,500.0,0.0,BILL NO 31,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Sugar,3,Kg,285.0,0.0,BILL NO 32,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Sunflower Oil,4,Case,10000.0,0.0,BILL NO 32,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Termeric Powder,2,Packet,400.0,0.0,BILL NO 32,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Tomato Ketchup,1,Jarkin,1050.0,0.0,BILL NO 32,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Venegar,5,Bottle,400.0,0.0,BILL NO 32,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Curry Powder,1,Bandel,500.0,0.0,BILL NO 32,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Staff Rice,1,Bora,1900.0,0.0,BILL NO 32,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Guest Rice,2,Bora,6600.0,0.0,BILL NO 32,s,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Guest Rice,2,Bora,1750.0,0.0,BILL NO 32,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,5,Packet,300.0,0.0,BILL NO 745,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Bread,3,Packet,180.0,0.0,BILL NO 745,s,Creditor
+Income,Room,207,DMC Collage,Room,1,Day,1000.0,0.0,BILL NO 663,s,Debtor
+Income,Resturant,Food,DMC Collage,Chicken Khana,1,Plate,400.0,0.0,BILL NO 663,s,Debtor
+Income,Room,206,Rakesh Gupta,Room,1,Day,0.0,1000.0,BILL NO 664,s,Fonepay
+Income,Resturant,Food,Rakesh Gupta,Veg Khana,2,Plate,0.0,600.0,BILL NO 664,s,Fonepay
+Income,Resturant,Bar,Rakesh Gupta,Tuborg Beer,1,Bottle,0.0,500.0,BILL NO 664,s,Fonepay
+Income,Resturant,Food,Rakesh Gupta,Noodles Sadheko,1,Plate,0.0,130.0,BILL NO 664,s,Fonepay
+Income,Resturant,Food,Rakesh Gupta,Milk Tea,3,Cup,0.0,195.0,BILL NO 664,s,Fonepay
+Income,Adminstration,Discount,Rakesh Gupta,Discount,0,Harry,0.0,-25.0,BILL NO 664,s,Fonepay
+Expense,Kitchen,Food,Bhabana Stores,Egg,1,Case,2400.0,0.0,BILL NO 1088,s,Creditor
+Income,Room,205,Til Bhadur Sunar,Room,1,Day,0.0,1800.0,BILL NO 665,s,Cash
+Income,Resturant,Food,Til Bhadur Sunar,Chicken Fried,1,Plate,0.0,400.0,BILL NO 665,s,Cash
+Income,Resturant,Food,Til Bhadur Sunar,Mutton Khana,1,Plate,0.0,450.0,BILL NO 665,s,Cash
+Income,Resturant,Food,Gaurav Maskey,Black Coffee,5,Cup,250.0,0.0,BILL NO 667,s,Creditor
+Income,Resturant,Food,Gaurav Maskey,Pancake with Honey,15,Piece,1500.0,0.0,BILL NO 667,s,Creditor
+Income,Resturant,Food,Gaurav Maskey,Masala Omlate,2,Set,250.0,0.0,BILL NO 667,s,Creditor
+Income,Resturant,Food,Gaurav Maskey,Lemon Tea,5,Cup,200.0,0.0,BILL NO 667,s,Creditor
+Income,Room,201,Sunil Maskey,Room,3,Day,0.0,4500.0,BILL NO 666,s,Fonepay
+Income,Resturant,Food,Sunil Maskey,Milk Tea,2,Cup,0.0,130.0,BILL NO 666,s,Fonepay
+Income,Resturant,Food,Sunil Maskey,Miracle Breakfast,1,Set,0.0,300.0,BILL NO 666,s,Fonepay
+Income,Resturant,Food,Sunil Maskey,Chicken Khana,1,Plate,0.0,400.0,BILL NO 666,s,Fonepay
+Income,Resturant,Food,Sunil Maskey,Chicken Chowmein,1,Plate,0.0,300.0,BILL NO 666,s,Fonepay
+Income,Resturant,Food,Sunil Maskey,Egg Curry,1,Plate,0.0,250.0,BILL NO 666,s,Fonepay
+Income,Resturant,Food,Sunil Maskey,Plain Rice,1,Plate,0.0,120.0,BILL NO 666,s,Fonepay
+Expense,Kitchen,Food,Local Market,Noodles,3,Packet,0.0,60.0,Harry,s,Cash
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Detergent Powder,1,Packet,0.0,440.0,BILL NO 440,s,Cash
+Income,Room,107,Kush Dhoju,Room,1,Day,0.0,1000.0,BILL No 669,s,Cash
+Income,Resturant,Food,Kush Dhoju,Chicken Khana,1,Plate,0.0,400.0,BILL NO 669,s,Cash
+Income,Resturant,Food,Kush Dhoju,English Style Breakfast,1,Set,0.0,400.0,BILL NO 669,s,Cash
+Expense,Kitchen,Vegetables,Kumar Shurketi,Cauliflower,4,Kg,0.0,280.0,Harry,s,Cash
+Expense,Kitchen,Meat,Bhabana Stores,Chicken,10,Kg,3700.0,0.0,BILL NO 1089,s,Creditor
+Income,Resturant,Food,Gaurav Maskey,Frooti,5,Piece,200.0,0.0,BILL NO 671,s,Creditor
+Income,Resturant,Food,Gaurav Maskey,Cold Drinks,2,Glass,140.0,0.0,BILL NO 671,s,Creditor
+Income,Resturant,Food,Siddhi Ganesh Finance,Milk Coffee,13,Cup,1300.0,0.0,BILL NO 670,s,Creditor
+Income,Resturant,Food,Siddhi Ganesh Finance,Miracle Khaja Set,14,Set,5180.0,0.0,BILL NO 670,s,Creditor
+Income,Resturant,Food,Siddhi Ganesh Finance,Chicken Mushroom Soup,1,Boul,250.0,0.0,BILL NO 670,s,Creditor
+Expense,Resturant,Bar,Shrestha Kirana Pasal,Mix Real Juice,2,Ltr,0.0,560.0,BILL NO 128,s,Cash
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Carrot,1,Kg,80.0,0.0,BILL NO 1692,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cabbage,2,Kg,100.0,0.0,BILL NO 1692,s,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Capsicum,1,Kg,120.0,0.0,BILL NO 1692,s,Creditor
+Income,Resturant,Food,Eye Hospital,Chicken Nugget,1.5,Plate,525.0,0.0,BILL NO 672,s,Debtor
+Income,Resturant,Food,Eye Hospital,Fish Finger,3,Plate,1050.0,0.0,BILL NO 672,s,Debtor
+Income,Resturant,Food,Eye Hospital,Chicken Chilly B/L,2,Plate,700.0,0.0,BILL NO 672,s,Debtor
+Income,Resturant,Food,Eye Hospital,Veg Boil,4,Plate,800.0,0.0,BILL NO 672,s,Debtor
+Income,Resturant,Food,Eye Hospital,Chicken Nugget,1,Plate,350.0,0.0,BILL NO 672,s,Debtor
+Income,Resturant,Food,Eye Hospital,Tuborg Beer,2,Bottle,1000.0,0.0,BILL NO 672,s,Debtor
+Income,Resturant,Food,Eye Hospital,Mix Real Juice,2,Glass,300.0,0.0,BILL NO 672,s,Debtor
+Income,Resturant,Food,Eye Hospital,Khukuri Rum,30,Ml,150.0,0.0,BILL NO 672,s,Debtor
+Income,Resturant,Food,Eye Hospital,Signature Red,1,Half,1550.0,0.0,BILL NO 672,s,Debtor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,5,Packet,300.0,0.0,BILL NO 746,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Bread,3,Bread,180.0,0.0,BILL NO 746,s,Creditor
+Income,Room,204,Nawaraj Lamichhane,Room,1,Day,0.0,1800.0,BILL NO 673,s,Fonepay
+Income,Resturant,Food,Nawaraj Lamichhane,Chicken Fry,1,Plate,0.0,400.0,BILL NO 673,s,Fonepay
+Income,Resturant,Food,Nawaraj Lamichhane,Corn & Peper,1,Plate,0.0,325.0,BILL NO 673,s,Fonepay
+Income,Resturant,Bar,Nawaraj Lamichhane,Tuborg Beer,2,Bottle,0.0,1000.0,BILL NO 673,s,Fonepay
+Income,Adminstration,Discount,Nawaraj Lamichhane,Discount,0,Harry,0.0,-25.0,BILL NO 673,s,Fonepay
+Expense,Adminstration,Water,Gorkha Mineral Water Udhyog,water Jar,3,Jar,180.0,0.0,BILL NO 3356,s,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Bread,3,Packet,180.0,0.0,BILL NO 747,r,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,5,Packet,300.0,0.0,BILL NO 747,r,Creditor
+Income,Resturant,Food,Out Guest,Chicken 65,1,Plate,0.0,300.0,BILL NO 674,r,Cash
+Income,Resturant,Food,Out Guest,Mushroom Choila,2,Plate,0.0,500.0,BILL NO 674,r,Cash
+Income,Resturant,Food,Out Guest,Chicken Nugget,1,Plate,0.0,350.0,BILL NO 674,r,Cash
+Income,Resturant,Food,Out Guest,Milk Tea,1,Plate,0.0,65.0,BILL NO 674,r,Cash
+Income,Resturant,Food,Out Guest,Fish Finger,1,Plate,0.0,350.0,BILL NO 674,r,Cash
+Income,Resturant,Food,Out Guest,Cold Drinks,2,Glass,0.0,140.0,BILL NO 674,r,Cash
+Income,Resturant,Food,Out Guest,Carlsberg Beer,3,Bottle,0.0,1665.0,BILL NO 674,r,Cash
+Income,Resturant,Food,Out Guest,Gorkha Strong Beer,2,Bottle,0.0,1000.0,BILL NO 674,r,Cash
+Income,Adminstration,Service Charge,Out Guest,Service Charge,0,Harry,0.0,435.0,BILL NO 674,r,Cash
+Income,Adminstration,Discount,Out Guest,Discount,0,Harry,0.0,-5.0,BILL NO 674,r,Cash
+Expense,Resturant,Bar,Shrestha Kirana Pasal,Dew Jambo,1,Bottle,0.0,240.0,BILL NO 133,s,Cash
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Dry Chilly,1,Kg,450.0,0.0,BILL NO 33,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Tempura Powder,12,Packet,650.0,0.0,BILL NO 33,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Peanuts,5,Kg,1100.0,0.0,BILL NO 33,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Magaj,2,Packet,1000.0,0.0,BILL NO 33,r,Creditor
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Jam,1,jar,1850.0,0.0,BILL NO 33,r,Creditor
+Income,Room,307,Puskar Gurung,Room,1,Day,0.0,1000.0,BILL NO 677,r,Fonepay
+Income,Resturant,Bar,Puskar Gurung,Khukuri Rum,1,Qtr,0.0,650.0,BILL NO 677,r,Fonepay
+Income,Resturant,Bar,Puskar Gurung,Carlsberg Beer,2,Bottle,0.0,1110.0,BILL NO 677,r,Fonepay
+Income,Adminstration,Credit Collection,Puskar Gurung,Credit Collection,0,Harry,0.0,9240.0,Harry,r,Fonepay
+Income,Resturant,Food,JCI Gorkha,Mix Chowmein,2.5,Plate,550.0,0.0,BILL NO 206,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Chicken Chowmein,2,Plate,500.0,0.0,BILL NO 206,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Chicken Jhol Momo,1.5,Plate,450.0,0.0,BILL NO 206,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Chicken Momo,3,Plate,675.0,0.0,BILL NO 206,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Milk Coffee,2,Cup,200.0,0.0,BILL NO 206,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Black Coffee,2,Cup,100.0,0.0,BILL NO 206,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Black Tea,3,Cup,195.0,0.0,BILL NO 206,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Chicken Momo (Cig),4,Plate,900.0,0.0,BILL NO 206,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Milk Tea,6,Cup,390.0,0.0,BILL NO 206,r,Debtor
+Income,Resturant,Bar,JCI Gorkha,Mineral Water,5,Bottle,1250.0,0.0,BILL NO 210,r,Debtor
+Income,Resturant,Bar,JCI Gorkha,Old Durbar,0.5,Bottle,1700.0,0.0,BILL NO 210,r,Debtor
+Income,Resturant,Bar,JCI Gorkha,Carlsberg Beer,2,Bottle,1110.0,0.0,BILL NO 210,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Mix Veg Boiled,1,Plate,200.0,0.0,BILL NO 210,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Butter Omelete,2,Plate,300.0,0.0,BILL NO 210,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Chicken Momo (Cig),2,Plate,450.0,0.0,BILL NO 210,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Khana Set,153,Plate,118575.0,0.0,BILL NO 209,r,Debtor
+Income,Room,207,JCI Gorkha,Room,1,Day,1500.0,0.0,BILL NO 676,r,Debtor
+Income,Room,301,JCI Gorkha,Room ,1,Day,1500.0,0.0,BILL NO 676,r,Debtor
+Income,Room,302,JCI Gorkha,Room,1,Day,1500.0,0.0,BILL NO 676,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Chicken Fried,2,Plate,800.0,0.0,BILL NO 676,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Old Durbar Gold,1,Full,4000.0,0.0,BILL NO 676,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Mineral Water,2,Bottle,60.0,0.0,BILL NO 676,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Old Durbar,1,Full,4000.0,0.0,BILL NO 676,r,Debtor
+Income,Resturant,Food,JCI Gorkha,Chicken Momo (Cig),2,Plate,1000.0,0.0,BILL NO 676,r,Debtor
+Income,Resturant,Food,JCI Gorkha,J.D,1,Qtr,1700.0,0.0,BILL NO 676,r,Debtor
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Sano Kerau,1,Kg,0.0,170.0,BILL NO 134,r,Cash
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Rajma,2,Kg,0.0,340.0,BILL NO 134,r,Cash
+Expense,Adminstration,Misc,Local Market,Bora,6,Piece,0.0,50.0,Harry,r,Cash
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Beans,10,Kg,1200.0,0.0,BILL NO 1693,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cabbage,3,Kg,150.0,0.0,BILL NO 1693,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Capsicum,7,Kg,900.0,0.0,BILL NO 1693,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Carrot,10,Kg,800.0,0.0,BILL NO 1693,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Green Chilly,2,Kg,240.0,0.0,BILL NO 1693,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cucumber,2,Kg,160.0,0.0,BILL NO 1693,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Garlic,2,Kg,700.0,0.0,BILL NO 1693,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Lemon,1,Kg,280.0,0.0,BILL NO 1693,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Onion,30,Kg,1800.0,0.0,BILL NO 1693,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Potato,20,Kg,1200.0,0.0,BILL NO 1693,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Radish,10,Kg,500.0,0.0,BILL NO 1693,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,15,Kg,750.0,0.0,BILL NO 1693,r,Creditor
+Expense,Resturant,Bar,Local Market,Old Durbar,1,Bottle,0.0,2450.0,BILL NO 261,r,Cash
+Expense,Resturant,Bar,Joshi Quality Kirana pasal,Khukuri Rum,1,Bottle,1900.0,0.0,BILL NO 34,r,Creditor
+Expense,Resturant,Bar,Joshi Quality Kirana pasal,Black Label,1,Bottle,8800.0,0.0,BILL NO 34,r,Creditor
+Expense,Resturant,Bar,Joshi Quality Kirana pasal,J.P Wine,1,Bottle,1790.0,0.0,BILL NO 34,r,Creditor
+Expense,Kitchen,Meat,Bhabana Stores,Chicken ,110,Kg,40700.0,0.0,BILL NO 1090,r,Creditor
+Income,Room,204,Laxman Gurung,Room,1,Day,0.0,1500.0,BILL NO 678,s,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Curd,5,Packet,375.0,0.0,BILL NO 748,s,Creditor
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Baking Powder,1,Bottle,0.0,170.0,BILL NO 204,s,Cash
+Expense,Kitchen,Meat,Salim Quality Meat Shop,Mutton,60,Kg,66000.0,0.0,BILL NO 859,s,Creditor
+Income,Room,201,Gautam Dhakal,Room,1,Day,0.0,1500.0,BILL NO 680,s,Fonepay
+Income,Room,202,Gautam Dhakal,Room,1,Day,0.0,1000.0,BILL NO 680,s,Fonepay
+Income,Room,205,Gautam Dhakal,Room,1,Day,0.0,1000.0,BILL NO 680,s,Fonepay
+Income,Resturant,Food,Gautam Dhakal,Milk Tea,2,Cup,0.0,130.0,BILL NO 680,s,Fonepay
+Income,Resturant,Food,Gautam Dhakal,Plain Omlete,1,Plate,0.0,100.0,BILL NO 680,s,Fonepay
+Income,Resturant,Food,Gautam Dhakal,Hot Milk W.H,1,Glass,0.0,200.0,BILL NO 680,s,Fonepay
+Income,Resturant,Food,Gautam Dhakal,Chicken Khana,6,Plate,0.0,2400.0,BILL NO 680,s,Fonepay
+Income,Resturant,Food,Gautam Dhakal,Chicken Roti set,1,Set,0.0,400.0,BILL NO 680,s,Fonepay
+Income,Resturant,Food,Gautam Dhakal,Veg Roti set,1,Set,0.0,300.0,BILL NO 680,s,Fonepay
+Income,Adminstration,VAT,Gautam Dhakal,VAT,0,Harry,0.0,572.0,Invoice No 255,s,Fonepay
+Income,Adminstration,VAT,Gautam Dhakal,VAT,0,Harry,0.0,1300.0,Invoice No 253,s,Fonepay
+Income,Adminstration,Discount,Gautam Dhakal,Discount,0,Harry,0.0,-236.0,BILL NO 680,s,Fonepay
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Powder Milk,1,Packet,0.0,920.0,BILL NO 205,s,Cash
+Expense,Adminstration,Misc,Asbin Sunar,Transportation of Tent,0,Harry,0.0,1000.0,Harry,s,Cash
+Income,Room,104,Imran Gurung,Room,1,Day,0.0,1500.0,BILL NO 683,s,Cash
+Income,Room,107,Hotel Inn ,Room,1,Day,1000.0,0.0,BILL NO 679,s,Debtor
+Income,Room,105,Hotel Inn ,Room,1,Day,1500.0,0.0,BILL NO 679,s,Debtor
+Income,Room,203,Hotel Inn ,Room,1,Day,1500.0,0.0,BILL NO 679,s,Debtor
+Income,Room,206,Hotel Inn ,Room,1,Day,1000.0,0.0,BILL NO 679,s,Debtor
+Income,Room,301,Hotel Inn ,Room,1,Day,1500.0,0.0,BILL NO 679,s,Debtor
+Income,Room,302,Hotel Inn ,Room,1,Day,1500.0,0.0,BILL NO 679,s,Debtor
+Income,Room,304,Hotel Inn ,Room,1,Day,1500.0,0.0,BILL NO 679,s,Debtor
+Income,Room,306,Hotel Inn ,Room,1,Day,1000.0,0.0,BILL NO 679,s,Debtor
+Income,Room,307,Hotel Inn ,Room,1,Day,1000.0,0.0,BILL NO 679,s,Debtor
+Expense,Adminstration,Water,Gorkha Mineral Water Udhyog,water Jar,10,Jar,600.0,0.0,BILL NO 3357,s,Creditor
+Expense,Adminstration,Misc,Gorkhali Plastic Pasal,Plastic Plate,16,Piece,400.0,0.0,BILL NO 630,s,Creditor
+Expense,Adminstration,Misc,Gorkhali Plastic Pasal,Plastic Spoon,5,Piece,550.0,0.0,BILL NO 630,s,Creditor
+Expense,Adminstration,Misc,Gorkhali Plastic Pasal,Paper Glass,10,Piece,1200.0,0.0,BILL NO 630,s,Creditor
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Kismis,5,Packet,0.0,500.0,BILL NO 206,s,Cash
+Expense,Adminstration,Misc,New Plastic Bhada Pasal,silvor Foil,1,Roll,0.0,750.0,BILL NO 447,s,Cash
+Expense,Kitchen,Food,Rana Minimart,Green Peas,10,Packet,3200.0,0.0,BILL NO 78,s,Paid
+Expense,Kitchen,Food,Rana Minimart,French fries,10,Packet,10000.0,0.0,BILL NO 78,s,Paid
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Coffee Cup,3,Roll,0.0,540.0,BILL NO 208,s,Cash
+Expense,Kitchen,Food,Kumar Shurketi,Cauliflower,15,Kg,0.0,1050.0,Harry,s,Cash
+Expense,Adminstration,Misc,Shiva Kumar Shrestha,Transportation Charge,0,Harry,0.0,200.0,Harry,s,Cash
+Expense,Kitchen,Food,Cake Mystery Gorkha Bakery & Café,Small Pastery,20,Piece,17000.0,0.0,BILL NO 1190,s,Creditor
+Income,Room,207,Vibek Regmi,Room,2,Day,0.0,2000.0,BILL NO 684,s,Cash
+Income,Resturant,Food,Vibek Regmi,Veg Khana,4,Plate,0.0,1200.0,BILL NO 684,s,Cash
+Income,Resturant,Bar,Vibek Regmi,Gorkha Strong Beer,2,Bottle,0.0,1000.0,BILL NO 684,s,Cash
+Income,Resturant,Food,Out Guest,Chicken khana,3,Plate,0.0,1200.0,BILL NO 685,s,Cash
+Income,Resturant,Food,Out Guest,Veg Khana,1,Plate,0.0,300.0,BILL NO 685,s,Cash
+Income,Resturant,Food,Out Guest,Plain Omlete,1,Piece,0.0,50.0,BILL NO 685,s,Cash
+Expense,Adminstration,Fuel,Kalash Oil Srores,Petrol,5.55,Liter,0.0,1000.0,BILL NO 17083,r,Cash
+Expense,Kitchen,Food,Joshi Quality Kirana pasal,Peanuts,6,Kg,1320.0,0.0,BILL NO 351,r,Creditor
+Expense,Resturant,Misc,Kausal Kirana Pasal,Plastic Bowl,4,Packet,0.0,300.0,BILL NO 370,r,Cash
+Expense,Kitchen,Meat,Bhabana Stores,Chicken ,10,Kg,3700.0,0.0,BILL NO 1091,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Capsicum,4,Kg,520.0,0.0,BILL NO 1694,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Tomato,3,Kg,180.0,0.0,BILL NO 1694,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Cucumber,4,Kg,360.0,0.0,BILL NO 1694,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Radish,4,Kg,200.0,0.0,BILL NO 1694,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Carrot,4,Kg,360.0,0.0,BILL NO 1694,r,Creditor
+Expense,Kitchen,Vegetables,Guddu Veg Shop,Beans,3,Kg,360.0,0.0,BILL NO 1694,r,Creditor
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Detergent Powder,2,Packet,0.0,520.0,BILL NO 136,s,Cash
+Expense,Adminstration,Misc,Shrestha Kirana Pasal,Detergent Powder,1,Packet,0.0,40.0,BILL NO 136,s,Cash
+Expense,Kitchen,Food,Umer Faruk Fresh House,Rahu Fish,20,Kg,0.0,12000.0,BILL NO 154,s,Office Money
+Expense,Kitchen,Food,Umer Faruk Fresh House,Xadi Fish,14,Kg,0.0,5880.0,BILL NO 154,s,Office Money
+Expense,Adminstration,Stationary,Sarswoti Stationary & Suppliers,Paper Cutter,1,Than,75.0,0.0,BILL NO 986,s,Creditor
+Expense,Adminstration,Stationary,Sarswoti Stationary & Suppliers,Technotip Pen,1,Packet,150.0,0.0,BILL NO 986,s,Creditor
+Expense,Adminstration,Stationary,Sarswoti Stationary & Suppliers,Kaichi,1,Than,340.0,0.0,BILL NO 986,s,Creditor
+Expense,Adminstration,Stationary,Sarswoti Stationary & Suppliers,White Board,1,Than,1300.0,0.0,BILL NO 986,s,Creditor
+Expense,Adminstration,Stationary,Sarswoti Stationary & Suppliers,Photocopy Paper 70 qsm,1,Rim,550.0,0.0,BILL NO 986,s,Creditor
+Expense,Adminstration,Stationary,Sarswoti Stationary & Suppliers,Photocopy Paper 80 qsm,4,Rim,2600.0,0.0,BILL NO 986,s,Creditor
+Expense,Adminstration,Stationary,Sarswoti Stationary & Suppliers,Photocopy Paper 80 qsm,1,Rim,650.0,0.0,BILL NO 986,s,Creditor
+Expense,Adminstration,Stationary,Sarswoti Stationary & Suppliers,Sales Purchase Ledger,2,Than,300.0,0.0,BILL NO 986,s,Creditor
+Expense,Adminstration,Stationary,Sarswoti Stationary & Suppliers,Vat Bill Print,1,Pad,650.0,0.0,BILL NO 986,s,Creditor
+Expense,Adminstration,Stationary,Sarswoti Stationary & Suppliers,Double Tape,2,Roll,160.0,0.0,BILL NO 986,s,Creditor
+Expense,Adminstration,Stationary,Sarswoti Stationary & Suppliers,Highlighter,2,Than,80.0,0.0,BILL NO 986,s,Creditor
+Expense,Adminstration,Stationary,Sarswoti Stationary & Suppliers,Tipest,1,Than,60.0,0.0,BILL NO 986,s,Creditor
+Expense,Adminstration,Stationary,Sarswoti Stationary & Suppliers,Room Chart,1000,Piece,1200.0,0.0,BILL NO 986,s,Creditor
+Expense,Adminstration,Stationary,Sarswoti Stationary & Suppliers,KOT,100,Pad,4000.0,0.0,BILL NO 986,s,Creditor
+Expense,Adminstration,Stationary,Sarswoti Stationary & Suppliers,Vat Bill Print,1000,Piece,1700.0,0.0,BILL NO 988,s,Creditor
+Income,Resturant,Food,Gaurav Maskey,Milk Coffee,1,Cup,100.0,0.0,BILL NO 688,s,Debtor
+Income,Resturant,Food,Out Guest,Black Coffee,2,Cup,0.0,100.0,BILL NO 689,s,Cash
+Expense,Adminstration,Credit Payment,Rana Minimart,Credit Payment,0,Harry,0.0,13200.0,Harry,s,Office Money
+Income,Resturant,Food,Ishwor Maskey Sir,Veg Roti set,1,Set,300.0,0.0,BILL NO 6915,s,Debtor
+Income,Resturant,Bar,Office,Old Durbar,3,Qtr,2550.0,0.0,BILL NO 692,s,Debtor
+Income,Resturant,Bar,Office,Gorkha Strong Beer,1,Bottle,500.0,0.0,BILL NO 692,s,Debtor
+Income,Resturant,Food,Thaneshwor Dawadi,Snacks+Khana Set,421,Plate,0.0,399950.0,BILL NO 690,s,Cash
+Income,Room,106,Thaneshwor Dawadi,Room,0,Harry,0.0,3000.0,BILL NO 690,s,Cash
+Income,Adminstration,Discount,Thaneshwor Dawadi,Discount,0,Harry,0.0,-2950.0,BILL NO 690,s,Cash
+Expense,Adminstration,Credit Payment,Cake Mystery Gorkha Bakery & Café,Credit Payment,0,Harry,0.0,17000.0,Harry,s,Cash
+Expense,Adminstration,Credit Payment,Gorkha Ayurved Company Pvt.Ltd,Past Credit Payment,0,Harry,0.0,20000.0,Harry,s,Office Money
+Expense,Kitchen,Vegetables,Sarita Sirmal,Saag,29,Mutha,0.0,870.0,Harry,s,Cash
+Expense,Kitchen,Vegetables,Sarita Sirmal,Corrainder,2,Kg,0.0,400.0,Harry,s,Cash
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,5,Packet,300.0,0.0,BILL NO 750,r,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Bread,3,Packet,180.0,0.0,BILL NO 750,r,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Panner,10,Kg,8400.0,0.0,BILL NO 749,r,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Butter,1,Kg,1340.0,0.0,BILL NO 749,r,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Milk,10,Packet,600.0,0.0,BILL NO 749,r,Creditor
+Expense,Kitchen,Food,Manakamana Icecream Stores,Ice Cream,4,Packet,4200.0,0.0,BILL NO 749,r,Creditor
+Expense,Kitchen,Food,Shrestha Kirana Pasal,Chowmein,3,Packet,0.0,300.0,BILL NO 137,r,Cash
+Expense,Adminstration,Misc,Kalika Plastic Centre,P/P Jhola,1,Kg,0.0,350.0,BILL NO 99,r,Cash
+Income,Resturant,Food,Out Guest,Miracle Khaja Set,2,Set,0.0,800.0,BILL NO 693,r,Fonepay
+Income,Resturant,Food,DMC Collage,Chicken Jhol Momo,2,Plate,600.0,0.0,BILL NO 694,r,Debtor
+Income,Resturant,Food,Office,Ginger Honey,1,Glass,100.0,0.0,BILL NO 695,r,Debtor
