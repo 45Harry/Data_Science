@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CNN_projects/Cat_or_Dog_classification_using_CNN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CNN_projects/Customer_Churn_predictor_using_ANN" vcs="Git" />
+  </component>
+</project>
