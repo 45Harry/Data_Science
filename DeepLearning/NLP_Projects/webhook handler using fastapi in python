@@ -1,0 +1,12 @@
+write  a python code using fastapi as a backend that can handel webhook requests coming from dialogflow. i've following intenst (1) order.add (2)order.remove. Write individual functions to handle each of these intents. Each function should take parameters and session_id as an input.session id can be extracted from outputContexts within a queryResult in a webhook request
+
+there should be only one webhooks haldler and then inside the code, based on the intent we can route the call to different functions
+
+
+
+
+
+2
+
+
+i have mysql database that has a table called order_tracking this has a column called status and the primary key call order_id . write a python code that takes order_id as input and reads the stauts from database
